@@ -1,0 +1,350 @@
+/* Tooltip container */
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  cursor: help;
+  color: #acacac;
+}
+
+/* Placeholder Coloring */
+
+::-webkit-input-placeholder {
+   color: #cccccc;
+}
+
+:-moz-placeholder { 
+   color: #cccccc;  
+}
+
+::-moz-placeholder { 
+   color: #cccccc;  
+}
+
+:-ms-input-placeholder {  
+   color: #cccccc;  
+}
+
+
+.header_logo_paypal{
+	width: 487px;
+	height: unset !important;
+}
+
+.catalogbanner{
+	width: 300px;
+	height: unset !important;
+}
+
+.savbut{
+	transition: all 0.5s ease-in-out;
+	-webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+	border-radius: 10px !important;
+}
+
+.savbut:hover {
+	background: #434343 !important;
+	border-radius: 16px !important;
+	letter-spacing: 4px;
+	-webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+	-moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+	box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
+}
+
+/*Logo Reflect*/
+.reflejo{
+	height: 300px;
+	width: 300px;
+	overflow: hidden;
+}
+
+figure{
+	display: block;
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+    margin-inline-start: 0 !important;
+    margin-inline-end: 0 !important;
+}
+
+.reflejo figure {
+	position: relative;
+}
+.reflejo figure::before {
+	position: absolute;
+	top: 0;
+	left: -75%;
+	z-index: 2;
+	display: block;
+	content: '';
+	width: 50%;
+	height: 100%;
+	background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%);
+	background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%);
+	-webkit-transform: skewX(-25deg);
+	transform: skewX(-25deg);
+}
+.reflejo figure:hover::before {
+	-webkit-animation: shine .75s;
+	animation: shine .75s;
+}
+@-webkit-keyframes shine {
+	100% {
+		left: 125%;
+	}
+}
+@keyframes shine {
+	100% {
+		left: 125%;
+	}
+}
+/*End Logo Reflect*/
+
+.wrap h1{
+	font-size: 18px !important;
+}
+
+.form-table th{
+	font-size: 12px !important;
+}
+
+.form-table td fieldset{
+	font-size: 12px !important;
+}
+
+input[type=text]{
+	font-size: 12px !important;
+}
+
+input[type=checkbox] {
+	border-radius: 3px !important;
+	border-color: rgba(63, 104, 186, 0.44) !important;
+}
+
+input[type=radio] {
+	border-color: rgba(63, 104, 186, 0.44) !important;
+}
+
+input[type=radio]:checked:before{
+	background-color: #3f68ba !important;
+}
+
+input[type=checkbox]:checked:before{
+	color: #3f68ba !important;
+}
+
+.wp-admin select{
+	font-size: 12px !important;
+}
+
+textarea{
+	font-size: 12px !important;
+}
+
+.wmess p{
+	font-size: 12px !important;
+}
+
+.notice-success, div.updated {
+    border-left-color: #0012ff !important;
+}
+
+.wp-core-ui .notice.is-dismissible {
+    background: #e2ecff !important;
+}
+
+#wpcontent{
+	background: white !important;
+}
+
+
+
+.pre-container{
+	background-color:white;
+	position: fixed;
+    width: 100%;
+    height: 100%;
+	z-index: 99999;
+}
+
+.container {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+
+}
+
+.item {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+}
+
+.item-1 {
+  background-color: #709bf3;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  animation: item-1_move 1.8s cubic-bezier(.6,.01,.4,1) infinite;
+}
+
+.item-2 {
+  background-color: #92b1f1;
+  top: 0;
+  right: 0;
+  animation: item-2_move 1.8s cubic-bezier(.6,.01,.4,1) infinite;
+}
+
+.item-3 {
+  background-color: #a6bff1;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  animation: item-3_move 1.8s cubic-bezier(.6,.01,.4,1) infinite;
+}
+
+.item-4 {
+  background-color: #becff1;
+  bottom: 0;
+  left: 0;
+  animation: item-4_move 1.8s cubic-bezier(.6,.01,.4,1) infinite;
+}
+
+@keyframes item-1_move {
+  0%, 100% {transform: translate(0, 0)} 
+  25% {transform: translate(0, 80px)} 
+  50% {transform: translate(80px, 80px)} 
+  75% {transform: translate(80px, 0)} 
+}
+
+@keyframes item-2_move {
+  0%, 100% {transform: translate(0, 0)} 
+  25% {transform: translate(-80px, 0)} 
+  50% {transform: translate(-80px, 80px)} 
+  75% {transform: translate(0, 80px)} 
+}
+
+@keyframes item-3_move {
+  0%, 100% {transform: translate(0, 0)} 
+  25% {transform: translate(0, -80px)} 
+  50% {transform: translate(-80px, -80px)} 
+  75% {transform: translate(-80px, 0)} 
+}
+
+@keyframes item-4_move {
+  0%, 100% {transform: translate(0, 0)} 
+  25% {transform: translate(80px, 0)} 
+  50% {transform: translate(80px, -80px)} 
+  75% {transform: translate(0, -80px)} 
+}
+
+#wpfooter{
+	display: none !important;
+}
+
+.catalogbanner, .header_logo, .header_logo_paypal{
+	border: 1px solid #7e8993;
+	border-radius: 5px;
+}
+
+.nav-tab{
+	background: #e2ecff !important;
+	border: 1px solid #b0ceff !important;
+	color: #3f68ba !important;
+	border-radius: 10px;
+	-webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+	outline: 1px solid transparent;
+	-webkit-backface-visibility: hidden;
+	translateZ(0);
+	will-change: transform;
+	-webkit-perspective: 1000;
+	padding-top: 0px !important;
+    padding-bottom: 0px !important;
+	padding-left: 6px !important;
+    padding-right: 6px !important;
+}
+
+
+
+.nav-tab:hover{
+	transform: scale(1.05);
+}
+
+.nav-tab-active{
+	background: #769cf9 !important;
+	border: 1px solid #769cf9 !important;
+	color: #ffffff !important;
+}
+
+.nav-tab-wrapper{
+	border-bottom: none !important;
+	border: none !important;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  background-color: #282828;
+  color: #fff;
+  text-align: left;
+  padding: 10px;
+  border-radius: 5px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+  
+  width: 200px;
+  top: 100%;
+  left: 50%; 
+  margin-left: -111px; /* Use half of the width (120/2 = 60), to center the tooltip */
+  font-size: 10px;
+  line-height: 12px;
+    -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  opacity: 0;
+
+}
+
+.dashnocolor{
+	color: #66a0ff;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 0.9;
+  cursor: help;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	.tooltip .tooltiptext {
+		margin-left: 0px; /* Use half of the width (120/2 = 60), to center the tooltip */
+		left: 10px;
+		top: 125px;
+		position: fixed;
+	}
+
+	.header_logo_paypal{
+		width: 100%;
+	}
+	
+	.catalogbanner{
+		width: 100%;
+		height: unset !important;
+	}
+
+}

@@ -1,0 +1,202 @@
+/*White Player Update*/
+
+.audio-player{
+    border-top: solid 3px #245fbf !important;
+}
+
+.jp-interface .jp-controls .jp-play{
+	border: solid 3px #245fbf !important;
+}
+
+.jp-seek-bar, .jp-volume-bar{
+	background-color: #b2c2dd !important;
+}
+
+.jp-track-name{
+	color: #245fbf !important;
+}
+
+.jp-time-holder .jp-current-time{
+	color: #245fbf !important;
+}
+
+.jp-time-holder .jp-duration{
+	color: #245fbf !important;
+}
+
+.jp-progress .bullet, .jp-volume-bar .bullet{
+	background: #245fbf !important;
+}
+
+.bp_beatimg{
+    border: 4px solid #245fbf !important;
+}
+
+.jp-toggles button:hover{
+	color: #b2c2dd !important;
+}
+
+.bp_playicon{
+	color: #245fbf !important;
+}
+
+/*Blue Color 4 BeatPress*/
+
+.jp-state-looped .jp-toggles .jp-repeat{
+	color: #245fbf !important;
+}
+
+.bpmodal{ background-image: linear-gradient(rgba(36, 95, 191, 0.33), rgba(255, 255, 255, 0)); }
+
+.pldownload, .plshare{
+	color: #245fbf;
+}
+
+.ppplink{
+	color: #245fbf;
+}
+
+.purchbox{
+	background: #00112c none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.purchbox_external{
+	background: #00112c none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.purchbox_exclusive {
+    background: #00112c none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.soldbox {
+    background: #00112c none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.beatholder:hover{
+background-color: #f4f8ff;
+}
+
+/*Spinner Color*/
+.spinnyk {
+  border-top: 3px solid #245fbf;
+}
+
+.extrabeats {
+	color: #245fbf;
+}
+
+.bp_box_color {
+	color: #245fbf;
+}
+
+.bp_socials_button{
+	color: #245fbf;
+}
+
+/*Load More Button*/
+.loadmoreBtn {
+	background: #245fbf;
+	border: 2px solid #245fbf;
+	color:#fff;
+}
+
+.loadmoreBtn:hover{
+	color:#fff;
+}
+
+/*Search Box*/
+form.beatsearch button {
+    background: #245fbf;
+}
+
+form.beatsearch button:hover {
+    background: #588bdd;
+}
+
+/*Add Button*/
+.purchaselink {
+	background: #245fbf;
+	border: 2px solid #245fbf;
+}
+
+.purchaselink_sold {
+	background: #245fbf;
+	border: 2px solid #245fbf;
+}
+
+.bp_pppseparator {
+	background: #245fbf;
+	border: 2px solid #245fbf;
+}
+
+.playplink_arc {
+	background: #245fbf;
+	border: 2px solid #245fbf;
+}
+
+/*Add Button Featured*/
+.purchaselinkfeatured {
+	background: #245fbf;
+	border: 2px solid #245fbf;
+}
+
+/*Genre Category*/
+.cat {
+    color: #245fbf;
+}
+
+.cat_c {
+    color: #245fbf;
+    border: 1px solid #245fbf;
+	background-color:#fff;
+}
+
+/*Genre Category Featured*/
+.catft{
+    color: #245fbf;
+}
+
+
+/*Type Beat Box*/
+.cattb{
+	background-color:#245fbf;
+    color: #fff;
+    border: 1px solid #245fbf;
+}
+
+.cattb_bpgenres{
+	background-color:#245fbf;
+    color: #fff;
+    border: 1px solid #245fbf;
+}
+
+/*Cart Tray Checkout Button*/
+.button-badge {
+  background-color: #245fbf;
+}
+
+
+/*Open the featured beat button*/
+.openlinkfeatured {
+	background: #245fbf;
+	border: 2px solid #245fbf;
+}
+
+/*Player Bar Background*/
+.jp-play-bar, .jp-volume-bar-value {
+  background-color: #245fbf;
+}
+
+/*Type of license Text Color*/
+.lictype {
+    color: #91baff;
+}
+
+/*Type of license Text Color*/
+.lictype {
+    color: #9ec3ff;
+}
+
+.lictype2 {
+	color: #7d9dd5;
+}

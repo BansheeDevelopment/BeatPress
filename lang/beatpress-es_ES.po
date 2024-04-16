@@ -1,0 +1,3783 @@
+# TRADUCCIÓN AL CASTELLANO PARA BEATPRESS.
+# Copyright (C) 2019
+# This file is distributed under the same license as the BEATPRESS package.
+# CLAUDIO GONZÁLEZ <INFO@SURCEBEATS.COM>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-24 22:48+0200\n"
+"PO-Revision-Date: 2019-09-25 02:06+0200\n"
+"Last-Translator: Claudio González Medina (surcebeats.com) <info@surcebeats.com>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3\n"
+
+#: beatpress.php:119 inc/dashboard.php:245
+msgid "beats published"
+msgstr "beats publicados"
+
+#: beatpress.php:120 inc/dashboard.php:246
+msgid "beats scheduled"
+msgstr "beats programados"
+
+#: beatpress.php:121 inc/dashboard.php:247
+msgid "beats saved as drafts"
+msgstr "beats guardados como borradores"
+
+#: beatpress.php:122 inc/dashboard.php:255
+msgid "genres"
+msgstr "géneros"
+
+#: beatpress.php:125 inc/dashboard.php:268
+msgid "beat tags"
+msgstr "tags"
+
+#: beatpress.php:128
+msgid "Open BeatPress Dashboard"
+msgstr "Abrir el Panel Principal de BeatPress"
+
+#: beatpress.php:151
+msgid "It seems that your cart is empty."
+msgstr "Parece que tu carrito está vacío."
+
+#: beatpress.php:308
+msgid "Check out my beats and instrumentals!"
+msgstr "¡Escucha mis beats e instrumentales!"
+
+#: beatpress.php:318
+msgid "BeatPress Plugin for WordPress"
+msgstr "Plugin BeatPress para WordPress"
+
+#: beatpress.php:318
+msgid "Developed by "
+msgstr "Desarrollado por "
+
+#: beatpress.php:325 beatpress.php:543 inc/beatpress_catalog.php:163
+msgid "Powered by BeatPress"
+msgstr "Funcionando con BeatPress"
+
+#: beatpress.php:501 beatpress.php:512
+msgid "Share this page"
+msgstr "Comparte ésta página"
+
+#: beatpress.php:526 beatpress.php:533
+msgid "Check out the latest beats"
+msgstr "Escucha los últimos beats"
+
+#: beatpress.php:591
+msgid ""
+"Easy Digital Downloads is selected as your BeatPress Selling Mode, but the "
+"plugin Easy Digital Downloads is non active or not installed."
+msgstr ""
+"Easy Digital Downloads está seleccionado como el Modo de Venta de BeatPress, "
+"pero el plugin Easy Digital Downloads no está activado o instalado."
+
+#: beatpress.php:591
+msgid "Please select a different BeatPress Selling Mode"
+msgstr "Por favor selecciona un modo diferente de venta"
+
+#: beatpress.php:591 inc/beatpress_catalog.php:230
+msgid "clicking here"
+msgstr "haciendo clic aquí"
+
+#: beatpress.php:591
+msgid "or install"
+msgstr "o instala"
+
+#: beatpress.php:740
+msgid "Duplicate this item"
+msgstr "Duplicar este elemento"
+
+#: beatpress.php:740
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: beatpress.php:892
+msgid "BeatPress Settings"
+msgstr "Opciones de BeatPress"
+
+#: inc/beatpress_beats.php:138 inc/beatpress_catalog.php:44
+msgid "Search beat name, artist, genre, tags..."
+msgstr "Busca nombre de beat, artista, género..."
+
+#: inc/beatpress_beats.php:168 inc/beatpress_beats.php:170
+#: inc/beatpress_catalog.php:244 inc/beatpress_catalog.php:247
+#: inc/beatpress_catalog.php:248 inc/beatpress_catalog.php:600
+#: inc/beatpress_catalog.php:603
+#, php-format
+msgid "Listen to %s, a %s Type Beat"
+msgstr "Escucha %s, un beat del estilo de %s"
+
+#: inc/beatpress_beats.php:199 inc/beatpress_catalog.php:252
+#: inc/beatpress_catalog.php:641
+msgid "Now listening:"
+msgstr "Escuchando:"
+
+#: inc/beatpress_beats.php:204 inc/beatpress_catalog.php:646
+#, php-format
+msgid "%s Type Beat"
+msgstr "Beat de %s"
+
+#: inc/beatpress_beats.php:210 inc/beatpress_beats.php:213
+#: inc/beatpress_beats.php:216 inc/beatpress_beats.php:757
+#: inc/beatpress_beats.php:760 inc/beatpress_beats.php:763
+#: inc/beatpress_beats.php:766 inc/beatpress_catalog.php:283
+#: inc/beatpress_catalog.php:287 inc/beatpress_catalog.php:290
+#: inc/beatpress_catalog.php:652 inc/beatpress_catalog.php:655
+#: inc/beatpress_catalog.php:658 inc/beatpress_catalog.php:661
+#: inc/instrumentals.php:745 inc/instrumentals.php:748
+#: inc/instrumentals.php:751 inc/instrumentals.php:754
+#, php-format
+msgid "%s Beats & Instrumentals"
+msgstr "Beats e Instrumentales de %s"
+
+#: inc/beatpress_beats.php:237 inc/beatpress_catalog.php:708
+#: inc/beatpress_catalog.php:710 inc/beatpress_catalog.php:765
+#, php-format
+msgid "%s was exclusively sold and is no longer available"
+msgstr "%s ha sido vendida de forma exclusiva y ya no está disponible"
+
+#: inc/beatpress_beats.php:244
+msgid "Broken Link"
+msgstr "Enlace Roto"
+
+#: inc/beatpress_beats.php:247 inc/beatpress_beats.php:249
+#: inc/beatpress_catalog.php:274 inc/beatpress_catalog.php:276
+#: inc/beatpress_catalog.php:691 inc/beatpress_catalog.php:695
+#, php-format
+msgid "Download %s Instrumental"
+msgstr "Descarga la Instrumental %s"
+
+#: inc/beatpress_beats.php:267 inc/beatpress_catalog.php:279
+#: inc/beatpress_catalog.php:721 inc/beatpress_catalog.php:723
+#, php-format
+msgid "%s Purchase Options"
+msgstr "Opciones de Compra de %s"
+
+#: inc/beatpress_beats.php:390
+msgid "Not Available"
+msgstr "No Disponible"
+
+#: inc/beatpress_beats.php:390
+msgid "Beat has been sold"
+msgstr "El beat ha sido vendido"
+
+#: inc/beatpress_beats.php:392 inc/beatpress_beats.php:490
+#: inc/beatpress_beats.php:607 inc/beatpress_beats.php:666
+msgid "Listen More Beats"
+msgstr "Escucha más beats"
+
+#: inc/beatpress_beats.php:395
+#, php-format
+msgid "%s was exclusively sold"
+msgstr "%s ha sido vendida de forma exclusiva"
+
+#: inc/beatpress_beats.php:396 inc/beatpress_catalog.php:766
+msgid "This beat is no longer available for any kind of licensing or purchase"
+msgstr "Éste beat ya no está disponible para ningún tipo de licencia o compra"
+
+#: inc/beatpress_beats.php:399
+msgid "Anyway, you may be interested in"
+msgstr "De todas formas, podrías estar interesado en"
+
+#: inc/beatpress_beats.php:399
+msgid "which is a pretty similar beat"
+msgstr "que es una instrumental bastante similar"
+
+#: inc/beatpress_beats.php:456 inc/beatpress_beats.php:458
+#: inc/beatpress_beats.php:477 inc/beatpress_beats.php:479
+#: inc/beatpress_beats.php:565 inc/beatpress_beats.php:567
+#: inc/beatpress_beats.php:576 inc/beatpress_beats.php:578
+#: inc/beatpress_catalog.php:360 inc/beatpress_catalog.php:362
+#: inc/beatpress_catalog.php:381 inc/beatpress_catalog.php:383
+#: inc/beatpress_catalog.php:432 inc/beatpress_catalog.php:434
+#: inc/beatpress_catalog.php:445 inc/beatpress_catalog.php:447
+#: inc/beatpress_catalog.php:816 inc/beatpress_catalog.php:818
+#: inc/beatpress_catalog.php:835 inc/beatpress_catalog.php:837
+#: inc/beatpress_catalog.php:952 inc/beatpress_catalog.php:956
+#: inc/beatpress_catalog.php:958 inc/dashboard.php:2833 inc/dashboard.php:2839
+#: inc/dashboard.php:3113
+msgid "Exclusive Rights"
+msgstr "Derechos Exclusivos"
+
+#: inc/beatpress_beats.php:456 inc/beatpress_beats.php:477
+#: inc/beatpress_beats.php:565 inc/beatpress_beats.php:576
+#: inc/beatpress_catalog.php:360 inc/beatpress_catalog.php:381
+#: inc/beatpress_catalog.php:432 inc/beatpress_catalog.php:445
+#: inc/beatpress_catalog.php:816 inc/beatpress_catalog.php:835
+#: inc/beatpress_catalog.php:952 inc/dashboard.php:2849 inc/dashboard.php:2855
+#: inc/dashboard.php:3125
+msgid "Make an Offer"
+msgstr "Haz una Oferta"
+
+#: inc/beatpress_beats.php:458 inc/beatpress_beats.php:479
+#: inc/beatpress_beats.php:567 inc/beatpress_beats.php:578
+#: inc/beatpress_catalog.php:362 inc/beatpress_catalog.php:383
+#: inc/beatpress_catalog.php:434 inc/beatpress_catalog.php:447
+#: inc/beatpress_catalog.php:818 inc/beatpress_catalog.php:837
+#: inc/beatpress_catalog.php:956 inc/beatpress_catalog.php:958
+#, php-format
+msgid "%s Is Yours"
+msgstr "%s Es Tuyo"
+
+#: inc/beatpress_beats.php:496 inc/beatpress_beats.php:618
+msgid "Grab the free download"
+msgstr "Pilla la descarga gratuita"
+
+#: inc/beatpress_beats.php:500 inc/beatpress_beats.php:622
+msgid "DISCLAIMER:"
+msgstr "AVISO:"
+
+#: inc/beatpress_beats.php:500 inc/beatpress_beats.php:622
+msgid ""
+"Free downloads are not “Free Beats”. They’re marked as free and available as "
+"free download for listening and evaluation purposes only. Purchase or "
+"license an instrumental to obtain rights to the beat. Any monetization / "
+"synchronization way is strictly prohibited"
+msgstr ""
+"Las descargas gratuitas no son \"Beats de Uso Libre\". Están marcados y "
+"disponibles como descarga gratuita para escuchar y para propósitos de "
+"evaluación. Compra o licencia una instrumental para obtener derechos sobre "
+"el beat. Cualquier forma monetización o sincronización está estrictamente "
+"prohibida"
+
+#: inc/beatpress_beats.php:505 inc/beatpress_beats.php:510
+#: inc/beatpress_beats.php:627 inc/beatpress_beats.php:632
+#, php-format
+msgid "Click here to download %s"
+msgstr "Haz clic aquí para descargar %s"
+
+#: inc/beatpress_beats.php:611
+msgid "Your cart"
+msgstr "Tu carrito"
+
+#: inc/beatpress_beats.php:650
+msgid "Beat Link Not Found"
+msgstr "Enlace No Encontrado"
+
+#: inc/beatpress_beats.php:650
+msgid "Missing External Link"
+msgstr "Falta Enlace Externo"
+
+#: inc/beatpress_beats.php:655 inc/beatpress_beats.php:659
+#: inc/beatpress_catalog.php:488 inc/beatpress_catalog.php:1032
+msgid "Click here to download"
+msgstr "Haz clic aquí para descargar"
+
+#: inc/beatpress_beats.php:655 inc/beatpress_beats.php:659
+#: inc/beatpress_catalog.php:488 inc/beatpress_catalog.php:1032
+msgid "Multiple Options"
+msgstr "Múltiples opciones"
+
+#: inc/beatpress_beats.php:691 inc/beatpress_beats.php:693
+#, php-format
+msgid "%s  - %s Instrumental"
+msgstr "%s - %s Instrumental"
+
+#: inc/beatpress_beats.php:696
+#, php-format
+msgid "%s Introduction"
+msgstr "Introducción de %s"
+
+#: inc/beatpress_beats.php:712
+#, php-format
+msgid "About this %s Type Beat"
+msgstr "Sobre este beat de %s"
+
+#: inc/beatpress_beats.php:733
+#, php-format
+msgid "%s Tags"
+msgstr "Tags de %s"
+
+#: inc/beatpress_beats.php:739
+#, php-format
+msgid "Browse the %s Beat Tag"
+msgstr "Navega por el tag %s"
+
+#: inc/beatpress_beats.php:754
+msgid "Browse beats by genre"
+msgstr "Navega entre beats por géneros"
+
+#: inc/beatpress_beats.php:829
+msgid "Play this"
+msgstr "Reproduce este"
+
+#: inc/beatpress_beats.php:829
+msgid "Type Beat"
+msgstr "Type Beat"
+
+#: inc/beatpress_beats.php:829
+msgid "on YouTube"
+msgstr "en YouTube"
+
+#: inc/beatpress_beats.php:831
+#, php-format
+msgid "Play this %s Type Beat on YouTube"
+msgstr "Reproduce este %s Type Beat en YouTube"
+
+#: inc/beatpress_beats.php:837
+msgid "Subscribe on YouTube!"
+msgstr "¡Suscríbete en YouTube!"
+
+#: inc/beatpress_beats.php:846
+#, php-format
+msgid "Rate %s, feedback is always welcome"
+msgstr "Valora %s, tu opinión es siempre bienvenida"
+
+#: inc/beatpress_beats.php:858
+msgid "Previous beat"
+msgstr "Beat anterior"
+
+#: inc/beatpress_beats.php:861 inc/beatpress_beats.php:870
+msgid "Subscribe"
+msgstr "Suscríbete"
+
+#: inc/beatpress_beats.php:863 inc/beatpress_beats.php:872
+msgid "Full Catalog"
+msgstr "Catálogo"
+
+#: inc/beatpress_beats.php:867
+msgid "Next beat"
+msgstr "Siguiente beat"
+
+#: inc/beatpress_beats.php:931
+#, php-format
+msgid "%s, an %s Type Beat produced by %s"
+msgstr "%s, un beat de %s producido por %s"
+
+#: inc/beatpress_catalog.php:52
+msgid "Load More Beats"
+msgstr "Cargar Más Beats"
+
+#: inc/beatpress_catalog.php:107
+#, php-format
+msgid "Follow %s on Twitter"
+msgstr "Sigue a %s en Twitter"
+
+#: inc/beatpress_catalog.php:112
+#, php-format
+msgid "Follow %s on Facebook"
+msgstr "Sigue a %s en Facebook"
+
+#: inc/beatpress_catalog.php:117
+#, php-format
+msgid "Follow %s on SoundCloud"
+msgstr "Sigue a %s en SoundCloud"
+
+#: inc/beatpress_catalog.php:122
+#, php-format
+msgid "Follow %s on Instagram"
+msgstr "Sigue a %s en Instagram"
+
+#: inc/beatpress_catalog.php:127
+#, php-format
+msgid "Follow %s on YouTube"
+msgstr "Sigue a %s en YouTube"
+
+#: inc/beatpress_catalog.php:132
+#, php-format
+msgid "Follow %s on Reddit"
+msgstr "Sigue a %s en Reddit"
+
+#: inc/beatpress_catalog.php:137
+#, php-format
+msgid "Follow %s on BeatStars"
+msgstr "Sigue a %s en BeatStars"
+
+#: inc/beatpress_catalog.php:142
+#, php-format
+msgid "Follow %s on Airbit"
+msgstr "Sigue a %s en Airbit"
+
+#: inc/beatpress_catalog.php:230
+msgid "Message for site administrator:"
+msgstr "Mensaje para los administradores de la web:"
+
+#: inc/beatpress_catalog.php:230
+msgid ""
+"Your featured beat has been marked as sold, change it to feature a new beat"
+msgstr ""
+"El beat que hay seleccionado como destacado ha sido marcado como vendido, "
+"cámbialo y selecciona un beat nuevo"
+
+#: inc/beatpress_catalog.php:257
+msgid "Featured Beat"
+msgstr "Beat Destacado"
+
+#: inc/beatpress_catalog.php:260 inc/beatpress_catalog.php:262
+#: inc/beatpress_catalog.php:330 inc/beatpress_catalog.php:332
+#: inc/beatpress_catalog.php:755 inc/beatpress_catalog.php:757
+#: inc/beatpress_catalog.php:798 inc/beatpress_catalog.php:800
+#: inc/beatpress_catalog.php:933 inc/beatpress_catalog.php:935
+#: inc/beatpress_catalog.php:1023 inc/beatpress_catalog.php:1025
+msgid "Produced by"
+msgstr "Producido por"
+
+#: inc/beatpress_catalog.php:279
+msgid "ADD TO CART"
+msgstr "AÑADIR AL CARRITO"
+
+#: inc/beatpress_catalog.php:504 inc/beatpress_catalog.php:848
+#: inc/beatpress_catalog.php:972 inc/beatpress_catalog.php:1041
+msgid "Beat Description"
+msgstr "Descripción del Beat"
+
+#: inc/beatpress_catalog.php:609
+msgid "(SOLD)"
+msgstr "(VENDIDO)"
+
+#: inc/beatpress_catalog.php:685
+#, php-format
+msgid "View %s Instrumental Page"
+msgstr "Ver la Página de la Instrumental %s"
+
+#: inc/beatpress_catalog.php:710
+msgid "SOLD"
+msgstr "NO"
+
+#: inc/beatpress_catalog.php:723
+msgid "ADD"
+msgstr "VER"
+
+#: inc/dashboard.php:6 inc/dashboard.php:118 inc/dashboard.php:148
+#: inc/dashboard.php:356 inc/dashboard.php:449 inc/dashboard.php:548
+#: inc/dashboard.php:652 inc/dashboard.php:746 inc/dashboard.php:835
+#: inc/dashboard.php:914 inc/dashboard.php:1492
+msgid "Dashboard"
+msgstr "Panel Principal"
+
+#: inc/dashboard.php:7 inc/dashboard.php:149 inc/dashboard.php:357
+#: inc/dashboard.php:450 inc/dashboard.php:549 inc/dashboard.php:622
+#: inc/dashboard.php:653 inc/dashboard.php:747 inc/dashboard.php:836
+#: inc/dashboard.php:915 inc/dashboard.php:1493 inc/dashboard.php:2839
+msgid "Selling"
+msgstr "Ventas"
+
+#: inc/dashboard.php:8 inc/dashboard.php:150 inc/dashboard.php:358
+#: inc/dashboard.php:451 inc/dashboard.php:518 inc/dashboard.php:550
+#: inc/dashboard.php:654 inc/dashboard.php:748 inc/dashboard.php:837
+#: inc/dashboard.php:916 inc/dashboard.php:1494
+msgid "General"
+msgstr "General"
+
+#: inc/dashboard.php:9 inc/dashboard.php:151 inc/dashboard.php:326
+#: inc/dashboard.php:359 inc/dashboard.php:452 inc/dashboard.php:551
+#: inc/dashboard.php:655 inc/dashboard.php:749 inc/dashboard.php:838
+#: inc/dashboard.php:917 inc/dashboard.php:1495
+msgid "Producer"
+msgstr "Productor"
+
+#: inc/dashboard.php:10 inc/dashboard.php:152 inc/dashboard.php:360
+#: inc/dashboard.php:419 inc/dashboard.php:453 inc/dashboard.php:552
+#: inc/dashboard.php:656 inc/dashboard.php:750 inc/dashboard.php:839
+#: inc/dashboard.php:918 inc/dashboard.php:1496
+msgid "Licenses"
+msgstr "Licencias"
+
+#: inc/dashboard.php:11 inc/dashboard.php:153 inc/dashboard.php:361
+#: inc/dashboard.php:454 inc/dashboard.php:553 inc/dashboard.php:657
+#: inc/dashboard.php:716 inc/dashboard.php:751 inc/dashboard.php:840
+#: inc/dashboard.php:919 inc/dashboard.php:1497
+msgid "Catalog"
+msgstr "Catálogo"
+
+#: inc/dashboard.php:12 inc/dashboard.php:154 inc/dashboard.php:362
+#: inc/dashboard.php:455 inc/dashboard.php:554 inc/dashboard.php:658
+#: inc/dashboard.php:752 inc/dashboard.php:805 inc/dashboard.php:841
+#: inc/dashboard.php:920 inc/dashboard.php:1498 inc/dashboard.php:2771
+#: inc/dashboard.php:2839
+msgid "Beat Pages"
+msgstr "Páginas de Beats"
+
+#: inc/dashboard.php:13 inc/dashboard.php:155 inc/dashboard.php:363
+#: inc/dashboard.php:456 inc/dashboard.php:555 inc/dashboard.php:659
+#: inc/dashboard.php:753 inc/dashboard.php:842 inc/dashboard.php:889
+#: inc/dashboard.php:921 inc/dashboard.php:1499
+msgid "Changelog"
+msgstr "Cambios"
+
+#: inc/dashboard.php:14 inc/dashboard.php:156 inc/dashboard.php:364
+#: inc/dashboard.php:457 inc/dashboard.php:556 inc/dashboard.php:660
+#: inc/dashboard.php:754 inc/dashboard.php:843 inc/dashboard.php:922
+#: inc/dashboard.php:1462 inc/dashboard.php:1500
+msgid "System"
+msgstr "Sistema"
+
+#: inc/dashboard.php:102
+msgid "Unauthorized user"
+msgstr "Usuario no autorizado"
+
+#: inc/dashboard.php:168 inc/dashboard.php:187
+msgid "Notification"
+msgstr "Notificación"
+
+#: inc/dashboard.php:174
+msgid "The first BeatPress version was released today!"
+msgstr "¡La primera versión de BeatPress fue lanzada hoy!"
+
+#: inc/dashboard.php:174
+msgid "Why not help a fellow producer and let him know about BeatPress? (:"
+msgstr "¿Por qué no ayudar a un colega productor y enseñarle BeatPress? (:"
+
+#: inc/dashboard.php:193
+msgid ""
+"What's up folks, today is Surce's birthday, the main developer of BeatPress "
+"so... Wish him a happy birthday!"
+msgstr ""
+"Qué pasa chavales, hoy es el cumpleaños de Surce, el principal desarrollador "
+"de BeatPress así que... ¡Deséale un feliz cumpleaños!"
+
+#: inc/dashboard.php:212
+msgid "Version"
+msgstr "Versión"
+
+#: inc/dashboard.php:214
+msgid "The actual BeatPress version this website is running."
+msgstr "La versión actual de BeatPress que ésta página está utilizando."
+
+#: inc/dashboard.php:223 inc/dashboard.php:229
+msgid "License"
+msgstr "Licencia"
+
+#: inc/dashboard.php:227
+msgid "Perpetual"
+msgstr "Perpetua"
+
+#: inc/dashboard.php:229
+msgid ""
+"This is the type of BeatPress license you have installed in this website."
+msgstr ""
+"Este es el tipo de licencia de BeatPress que tienes instalada en ésta página "
+"web."
+
+#: inc/dashboard.php:229
+msgid "You can purchase or extend your license to continue getting updates at"
+msgstr ""
+"Puedes comprar o alargar tu licencia para seguir recibiendo actualizaciones "
+"en"
+
+#: inc/dashboard.php:232
+msgid "Your BeatPress license"
+msgstr "Tu licencia de BeatPress"
+
+#: inc/dashboard.php:241
+msgid "Overview"
+msgstr "Visión General"
+
+#: inc/dashboard.php:280
+msgid "Thank you for choosing BeatPress for your business!"
+msgstr "¡Gracias por escoger BeatPress para tu negocio!"
+
+#: inc/dashboard.php:281
+msgid ""
+"We care about our business as much as you care about yours. In 2018 we "
+"understood and realized that in order"
+msgstr ""
+"Nos preocupamos por nuestro negocio tanto como tú te preocupas del tuyo. En "
+"2018 entendimos y nos dimos cuenta que para"
+
+#: inc/dashboard.php:282
+msgid ""
+"to take our music business and career to the next level we have to take "
+"control over everything we offer."
+msgstr ""
+"llevar nuestro negocio y carrera musical al siguiente nivel tenemos que "
+"tener el control sobre todo lo que ofrecemos."
+
+#: inc/dashboard.php:283
+msgid ""
+"That's why BeatPress exists, not to fight against the big names in the "
+"market, but to remind them that"
+msgstr ""
+"Por eso existe BeatPress, no es para pelear con los pesos pesados del "
+"mercado, es para recordarles que"
+
+#: inc/dashboard.php:284
+msgid ""
+"it shouldn't be an all-in-one service. It should be original, something "
+"different and completely standalone."
+msgstr ""
+"no debería ser un servicio todo en uno. Debería ser original, algo diferente "
+"y completamente independiente."
+
+#: inc/dashboard.php:285
+msgid ""
+"You can't stand out in an overwhelmed business if you don't offer something "
+"different to your customers"
+msgstr ""
+"No puedes destacar en un negocio saturado si no ofreces algo diferente a tus "
+"clientes"
+
+#: inc/dashboard.php:286
+msgid ""
+"and audience. That's why we are here, and that's why we made this possible."
+msgstr ""
+"y audiencia. Es por eso por lo que estamos aquí, y es por eso por lo que "
+"hemos hecho ésto posible."
+
+#: inc/dashboard.php:287
+msgid "If you just don't give a foh about SEO for websites then go to"
+msgstr ""
+"Si realmente te la suda el SEO para páginas web entonces ve directamente a"
+
+#: inc/dashboard.php:287
+msgid "or"
+msgstr "o"
+
+#: inc/dashboard.php:287
+msgid "and sign up for an account"
+msgstr "y créate una cuenta ahí"
+
+#: inc/dashboard.php:288
+msgid ""
+"they're really good people and they offer the easiest and most complete "
+"services out there."
+msgstr ""
+"son realmente buena gente y ofrecen los servicios más fáciles de usar y más "
+"completos que existen."
+
+#: inc/dashboard.php:290
+msgid "T h a n k y o u !"
+msgstr "¡ G r a c i a s !"
+
+#: inc/dashboard.php:291
+msgid "Made by producers for producers"
+msgstr "Hecho para productores por productores"
+
+#: inc/dashboard.php:291
+msgid "The BeatPress Team"
+msgstr "El equipo de BeatPress"
+
+#: inc/dashboard.php:299 inc/dashboard.php:378 inc/dashboard.php:471
+#: inc/dashboard.php:570 inc/dashboard.php:674 inc/dashboard.php:767
+#: inc/dashboard.php:857 inc/dashboard.php:1435 inc/dashboard.php:1640
+#: inc/instrumentals.php:593
+msgid "Proudly brought to you by"
+msgstr "Orgullosamente creado para tí por"
+
+#: inc/dashboard.php:373 inc/dashboard.php:466 inc/dashboard.php:565
+#: inc/dashboard.php:669 inc/dashboard.php:763 inc/dashboard.php:852
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: inc/dashboard.php:935
+msgid "Current Version"
+msgstr "Versión Actual"
+
+#: inc/dashboard.php:954
+msgid "Previous Versions"
+msgstr "Versiones Anteriores"
+
+#: inc/dashboard.php:1110
+msgid "Hi there!"
+msgstr "¡Hola!"
+
+#: inc/dashboard.php:1110
+msgid "I'm supposed to be a documentation file!"
+msgstr "¡Se supone que soy un archivo de documentación!"
+
+#: inc/dashboard.php:1110
+msgid "I'm here to help you out!"
+msgstr "¡Estoy aquí para ayudarte!"
+
+#: inc/dashboard.php:1414 inc/dashboard.php:1417
+msgid "Beta Builds"
+msgstr "Betas"
+
+#: inc/dashboard.php:1423
+msgid "So many thanks to all our beta-testers and supporters"
+msgstr ""
+"Muchísimas gracias a todos nuestros beta-testers y a los que nos apoyan"
+
+#: inc/dashboard.php:1423
+msgid "and"
+msgstr "y"
+
+#: inc/dashboard.php:1508
+msgid "N/A"
+msgstr "N/A"
+
+#: inc/dashboard.php:1518
+msgid "Web Server"
+msgstr "Servidor Web"
+
+#: inc/dashboard.php:1521
+msgid "BeatPress Version"
+msgstr "Versión de BeatPress"
+
+#: inc/dashboard.php:1532
+msgid "WordPress Version"
+msgstr "Versión de WordPress"
+
+#: inc/dashboard.php:1543 inc/dashboard.php:1549
+msgid "PHP Version"
+msgstr "Versión de PHP"
+
+#: inc/dashboard.php:1549
+msgid "Recommended version"
+msgstr "Versión recomendada"
+
+#: inc/dashboard.php:1558 inc/dashboard.php:1564
+msgid "Memory Limit"
+msgstr "Límite de Memoria"
+
+#: inc/dashboard.php:1564 inc/dashboard.php:1612
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/dashboard.php:1573
+msgid "Database"
+msgstr "Base de Datos"
+
+#: inc/dashboard.php:1584
+msgid "OS"
+msgstr "Sistema Operativo"
+
+#: inc/dashboard.php:1595
+msgid "Domain"
+msgstr "Dominio Web"
+
+#: inc/dashboard.php:1606 inc/dashboard.php:1612
+msgid "Server"
+msgstr "Servidor"
+
+#: inc/dashboard.php:1621 inc/dashboard.php:1627
+msgid "IP Address"
+msgstr "Dirección IP"
+
+#: inc/dashboard.php:1627
+msgid "This is the IP address of your web server, not your internet access IP"
+msgstr ""
+"Ésta es la dirección IP de tu servidor web, no tu IP de acceso a internet"
+
+#: inc/dashboard.php:1701
+msgid "Payments"
+msgstr "Pagos"
+
+#: inc/dashboard.php:1704
+msgid "Purchase Mode"
+msgstr "Modo de Venta"
+
+#: inc/dashboard.php:1708
+msgid "Sell your beats using BeatPress Direct (Default)"
+msgstr "Vende tus beats utilizando BeatPress Direct (Por defecto)"
+
+#: inc/dashboard.php:1710
+msgid ""
+"This is the default selling mode of BeatPress. Actually, it doesn't handle "
+"the files delivery automatically so if you're using BeatPress Direct for "
+"your leases you should keep in mind that you should send your untagged beats "
+"once the payments are received."
+msgstr ""
+"Éste es el modo de venta por defecto de BeatPress. Actualmente, no envía los "
+"archivos de forma automática así que si estás usando BeatPress Direct para "
+"los leasings deberías tener en cuenta que debes enviar los archivos una vez "
+"que los pagos son recibidos."
+
+#: inc/dashboard.php:1710
+msgid ""
+"This purchase mode is pretty similar to SoundClick since there's no "
+"automatic delivery, but still useful agaisnt chargebacks. Exclusive rights "
+"purchases are always processed using BeatPress Direct."
+msgstr ""
+"Éste modo de venta es muy similar a SoundClick ya que no hay entrega "
+"automática, pero aún así es útil contra contracargos. Las ventas de derechos "
+"exclusivos siempre son procesadas a través de BeatPress Direct."
+
+#: inc/dashboard.php:1713
+msgid "Sell your beats using Easy Digital Downloads"
+msgstr "Vende tus beats utilizando Easy Digital Downloads"
+
+#: inc/dashboard.php:1715
+msgid ""
+"Easy Digital Downloads is an external plugin managed and created by "
+"Sandhills Development, we've made BeatPress able to work together with Easy "
+"Digital Downloads and handle the beat purchases because we think it's the "
+"most advanced eCommerce plugin for WordPress out there."
+msgstr ""
+"Easy Digital Downloads es un plugin externo creado por Sandhills "
+"Development, hemos creado BeatPress para que sea capaz de funcionar junto "
+"con Easy Digital Downloads y que éste se encargue de las compras de los "
+"beats porque pensamos que es el plugin más avanzado de eCommerce ahí fuera."
+
+#: inc/dashboard.php:1715
+msgid ""
+"The Easy Digital Downloads team is really professional and they're always "
+"willing to help releasing documentation about their own plugins, so in long "
+"term it's the smartest way to work with."
+msgstr ""
+"El equipo de Easy Digital Downloads es realmente profesional y siempre están "
+"dispuestos a ayudar liberando documentación sobre sus propios plugins, asi "
+"que a largo plazo es el camino más inteligente el trabajar con ellos."
+
+#: inc/dashboard.php:1718
+msgid "Sell your beats using an external service (Ex: BeatStars / AirBit)"
+msgstr ""
+"Vende tus beats utilizando un servicio externo (Ejemplo: BeatStars / AirBit)"
+
+#: inc/dashboard.php:1720
+msgid ""
+"You can also use BeatPress to link your HTML5 ready and SEO friendly catalog "
+"with your external BeatStars ProPage or Airbit Infinity Store. By using the "
+"external purchase mode you can easily redirect your customers and listeners "
+"to the most advanced beat stores out there."
+msgstr ""
+"También puedes usar BeatPress para enlazar tu web creada en HTML5 y que "
+"además es SEO friendly con tu ProPage de BeatStars o Infinity Store de "
+"Airbit. Usando el modo de venta externo puedes fácilmente redireccionar a "
+"tus clientes y audiencia a las tiendas de beats más avanzadas ahí fuera."
+
+#: inc/dashboard.php:1720
+msgid ""
+"We really love and respect the hard work BeatStars and Airbit are putting in "
+"their projects. They made this possible and who knows, maybe in a near "
+"future there are better ways to integrate BeatStars and Airbit with "
+"BeatPress."
+msgstr ""
+"Realmente nos gusta y respetamos el trabajo duro que BeatStars y Airbit "
+"están poniendo en sus proyectos. Ellos han hecho ésto posible y quién sabe, "
+"quizá en un futuro próximo haya mejores formas de integrar BeatStars y "
+"Airbit con BeatPress."
+
+#: inc/dashboard.php:1720 inc/dashboard.php:2911
+msgid "External Services"
+msgstr "Servicios Externos"
+
+#: inc/dashboard.php:1723
+msgid ""
+"With this option your website will automatically redirect your customers to "
+"a PayPal purchase window"
+msgstr ""
+"Con ésta opción tu sitio web redirigirá automáticamente a tus clientes a una "
+"ventana de compra de PayPal"
+
+#: inc/dashboard.php:1724
+msgid ""
+"You will need to install Easy Digital Downloads plugin to make it handle "
+"BeatPress purchase requests"
+msgstr ""
+"Necesitarás instalar el plugin Easy Digital Downloads para hacer que se "
+"encargue de gestionar las peticiones de compra de BeatPresss"
+
+#: inc/dashboard.php:1725
+msgid "External"
+msgstr "Externo"
+
+#: inc/dashboard.php:1725
+msgid ""
+"You will need an external service like BeatStars or AirBit to sell your "
+"beats, but you'll also get the SEO benefits of having your own website"
+msgstr ""
+"Necesitarás un servicio externo como BeatStars o AirBit para vender tus "
+"beats, pero también obtendrás los beneficios del SEO de tener tu propio "
+"sitio web"
+
+#: inc/dashboard.php:1734 inc/dashboard.php:1738
+msgid "PayPal E-Mail Address"
+msgstr "Cuenta de PayPal"
+
+#: inc/dashboard.php:1736
+msgid "Your PayPal email"
+msgstr "Tu correo de PayPal"
+
+#: inc/dashboard.php:1738
+msgid ""
+"We need your PayPal email address to handle your sales, even if you're not "
+"using BeatPress Direct as your main Purchase Mode."
+msgstr ""
+"Necesitamos tu dirección de correo de PayPal para encargarnos de tus ventas, "
+"incluso si no estás usando BeatPress Direct como tu modo de venta principal."
+
+#: inc/dashboard.php:1738
+msgid ""
+"That's because exclusive rights purchases are always handled by BeatPress "
+"Direct, so you better make sure you type your PayPal address properly!"
+msgstr ""
+"Esto es así porque los derechos exclusivos siempre son procesados a través "
+"de BeatPress Direct, ¡así que asegúrate de que escribes correctamente tu "
+"dirección de PayPal!"
+
+#: inc/dashboard.php:1741
+msgid ""
+"Will be used to handle BeatPress Direct and exclusive purchases at runtime"
+msgstr ""
+"Será utilizado para gestionar BeatPress Direct y las compras exclusivas en "
+"tiempo de ejecución"
+
+#: inc/dashboard.php:1747 inc/dashboard.php:1771 inc/dashboard.php:1782
+msgid "Custom PayPal Logo"
+msgstr "Logo de PayPal"
+
+#: inc/dashboard.php:1769
+msgid "Recommended size 750 x 90 px"
+msgstr "Tamaño recomendado 750 x 90 px"
+
+#: inc/dashboard.php:1771
+msgid ""
+"This image is supposed to be the image that will be showed at the PayPal "
+"checkout page when the payments are processed using BeatPress Direct. "
+"Recommended size is 750px width and 90px height, if there's no image "
+"selected this default BeatPress logo will be showed instead."
+msgstr ""
+"Ésta imagen se supone que es la imagen que será mostrada en la ventana de "
+"pago de PayPal cuando los pagos sean procesados usando BeatPress Direct. El "
+"tamaño recomendado es 750px de ancho y 90px de alto, si no hay imagen "
+"seleccionada se mostrará el logo de BeatPress."
+
+#: inc/dashboard.php:1774 inc/dashboard.php:2196 inc/dashboard.php:2570
+msgid "Upload"
+msgstr "Subir"
+
+#: inc/dashboard.php:1784
+msgid "Upload PayPal Logo"
+msgstr "Subir Logo de PayPal"
+
+#: inc/dashboard.php:1805 inc/dashboard.php:1809 inc/dashboard.php:1811
+msgid "Encrypt"
+msgstr "Encriptar"
+
+#: inc/dashboard.php:1809
+msgid "purchase links"
+msgstr "enlaces de compra"
+
+#: inc/dashboard.php:1811
+msgid ""
+"We've created this encryption layer only for BeatPress Direct and exclusive "
+"rights purchases, when you enable this option the direct purchase URLs "
+"dynamically generated by BeatPress are automatically encrypted with SHA256 "
+"protection."
+msgstr ""
+"Hemos creado ésta capa de encriptación sólo para BeatPress Direct y para las "
+"ventas de derechos exclusivos, cuando habilitas ésta opción los enlaces "
+"directos generados dinámicamente por BeatPress son automáticamente "
+"encriptados con una capa de encriptación con hash SHA256."
+
+#: inc/dashboard.php:1811
+msgid ""
+"Please enable this option to prevent third parties to modify the purchase "
+"price, title or even the license they're buying."
+msgstr ""
+"Por favor habilita ésta opción para evitar que terceras personas puedan "
+"editar el precio de compra, título o incluso el tipo de licencia que están "
+"comprando."
+
+#: inc/dashboard.php:1814
+msgid "Click this option to encrypt the purchase links generated by"
+msgstr "Activa esta opción para encriptar los enlaces de compra generados por"
+
+#: inc/dashboard.php:1818
+msgid "Currently non encrypted"
+msgstr "Actualmente no encriptados"
+
+#: inc/dashboard.php:1818 inc/dashboard.php:1820
+msgid "URL Example"
+msgstr "Ejemplo de URL"
+
+#: inc/dashboard.php:1820
+msgid "Purchase links are currently encrypted"
+msgstr "Los enlaces de compra están actualmente encriptados"
+
+#: inc/dashboard.php:1832 inc/dashboard.php:1838
+msgid "External Service NoFollow"
+msgstr "NoFollow En Servicios Externos"
+
+#: inc/dashboard.php:1836
+msgid "Make External Service links NoFollow"
+msgstr "Haz NoFollow todos los enlaces de Servicios Externos"
+
+#: inc/dashboard.php:1838
+msgid ""
+"We all know how important it is for SEO purposes to have some dofollow "
+"links, but we all should know too that making a bunch of dofollow links "
+"inside your side could also make your domain authority decrease."
+msgstr ""
+"Todos sabemos como de importante es para el SEO tener algunos enlaces "
+"dofollow, pero todos deberíamos saber también que tener un puñado de enlaces "
+"salientes dofollow en tu propia web puede hacer que la autoridad de tu "
+"dominio baje."
+
+#: inc/dashboard.php:1838
+msgid ""
+"If you'd like to enable make your hyperlinks pointing to bsta.rs or air.bi "
+"NoFollow just enable this option."
+msgstr ""
+"Si te gustaría hacer que los enlaces que están apuntando a bsta.rs o air.bi "
+"sean NoFollow simplemente activa ésta opción."
+
+#: inc/dashboard.php:1838
+msgid ""
+"Important: Enabling this option will only work while External Service "
+"selling mode is enabled."
+msgstr ""
+"Importante: Habilitar ésta opción sólo funcionará mientras el modo de venta "
+"externo esté activado."
+
+#: inc/dashboard.php:1841
+msgid ""
+"Enable this option to enable NoFollow rule towards External Service links"
+msgstr ""
+"Activa esta opción para habilitar la regla NoFollow en todos los enlaces "
+"hacia Servicios Externos"
+
+#: inc/dashboard.php:1880
+msgid "General Settings"
+msgstr "Opciones Generales"
+
+#: inc/dashboard.php:1883 inc/dashboard.php:1889
+msgid "Support"
+msgstr "Apoyo"
+
+#: inc/dashboard.php:1887
+msgid "Do not support BeatPress on my website"
+msgstr "No apoyar BeatPress en mi página web"
+
+#: inc/dashboard.php:1889
+msgid ""
+"By activating this option you can disable the non-intrusive BeatPress banner "
+"that's showed at the bottom of your catalog and dynamically generated beat "
+"pages..."
+msgstr ""
+"Al activar ésta opción podrás deshabilitar el banner de BeatPress no "
+"intrusivo que es mostrado abajo del todo tanto en tu catálogo como en las "
+"páginas de beats generadas de forma dinámica..."
+
+#: inc/dashboard.php:1889
+msgid "Support your BeatPress family!"
+msgstr "¡Apoya a tu familia de BeatPress!"
+
+#: inc/dashboard.php:1892
+msgid ""
+"Hide or show the BeatPress promotional bar on your beat pages and catalog"
+msgstr ""
+"Esconde o muestra la barra promocional de BeatPress en tus páginas de beats "
+"y catálogo"
+
+#: inc/dashboard.php:1899 inc/dashboard.php:1905
+msgid "Purchase Button"
+msgstr "Botón de Compra"
+
+#: inc/dashboard.php:1903
+msgid "Use small purchase button"
+msgstr "Utilizar botón de compra pequeño"
+
+#: inc/dashboard.php:1905
+msgid ""
+"By activating this option you'll make your purchase buttons smaller and "
+"BeatPress will hide the \"ADD\" text next to it."
+msgstr ""
+"Activando ésta opción harás los botones de compra más pequeños y BeatPress "
+"esconderá el texto \"ADD\" adyacente."
+
+#: inc/dashboard.php:1908
+msgid ""
+"By activating this option you'll make your purchase buttons smaller and "
+"BeatPress will hide the \"ADD\" text next to it"
+msgstr ""
+"Activando ésta opción harás los botones de compra más pequeños y BeatPress "
+"esconderá el texto \"ADD\" adyacente"
+
+#: inc/dashboard.php:1915 inc/dashboard.php:1921 inc/dashboard.php:1926
+#: inc/dashboard.php:1931
+msgid "Beat Boxes Styling"
+msgstr "Estilo de las Cajas de Beats"
+
+#: inc/dashboard.php:1919
+msgid "Compact (Default)"
+msgstr "Compacto (Por defecto)"
+
+#: inc/dashboard.php:1921
+msgid ""
+"This is the default beats viewing and this is how your beats are showed in "
+"your catalog and beat pages as soon as you install and activate BeatPress."
+msgstr ""
+"Éste es el modo de visualización por defecto y así es como se muestran los "
+"beats en tu catálogo y en las páginas de beats nada más instalar BeatPress."
+
+#: inc/dashboard.php:1924 inc/dashboard.php:1929
+msgid "Fluid"
+msgstr "Fluido"
+
+#: inc/dashboard.php:1926
+msgid ""
+"By activating this option you'll make catalog wider and more reliable for "
+"mobile devices."
+msgstr ""
+"Activando ésta opción harás tu catálogo más ancho y mucho más manejable en "
+"dispositivos móviles."
+
+#: inc/dashboard.php:1931
+msgid ""
+"By activating this option you'll make catalog wider and more reliable for "
+"mobile devices and... Xtra Small, as its name says."
+msgstr ""
+"Al activar ésta opción harás tu catálogo más ancho y más manejable en "
+"dispositivos móviles y... Xtra Small, como el nombre indica."
+
+#: inc/dashboard.php:1934
+msgid "Activate this option to change the catalog styling in all your pages"
+msgstr "Activa ésta opción para cambiar el estilo en todas tus páginas"
+
+#: inc/dashboard.php:1942 inc/dashboard.php:1948
+msgid "Add to Blog Page"
+msgstr "Añadir al Blog"
+
+#: inc/dashboard.php:1946
+msgid "Add \"Instrumentals\" also to blog page"
+msgstr "Añadir \"Instrumentales\" también a la página del blog"
+
+#: inc/dashboard.php:1948
+msgid ""
+"Okay, first you should know that WordPress isn't a beat store, it's a blog. "
+"And what does that mean? That means that you should blog about something "
+"related with your craft, that's what a SEO should mainly do in a website "
+"and... Well, also linkbuilding, but that's not our thing here."
+msgstr ""
+"Vale, primero de todo debes saber que WordPress no es una tienda de beats, "
+"es un blog. ¿Qué significa eso? Significa que probablemente deberías "
+"escribir sobre algo relacionado con lo que haces, eso es lo que haría un SEO "
+"principalmente en un sitio web y... Bueno, también crearía enlaces, pero eso "
+"no es lo que va a hacer BeatPress."
+
+#: inc/dashboard.php:1948
+msgid ""
+"Once you know that WordPress is a blog you have to choose if your website is "
+"going to have blog posts (to attract a related audience to your products) or "
+"it's going to be just a beat store thanks to BeatPress. If you're not into "
+"the blogging thing we encourage you to activate this option and your beats "
+"will be showed too as blog posts."
+msgstr ""
+"Una vez que sabes que WordPress es un blog debes elegir si tu sitio web va a "
+"tener posts en el blog (para atraer a una audiencia relacionada hacia tus "
+"productos) o si va a ser simplemente una tienda de beats gracias a "
+"BeatPress. Si no te va eso de escribir en el blog te recomendamos que "
+"actives ésta opción y tus beats serán mostrados como posts del blog también."
+
+#: inc/dashboard.php:1951
+msgid ""
+"Activating this option can lower the positions of your blog posts since now "
+"the usual posts and the instrumentals will be showed there"
+msgstr ""
+"Activar ésta opción puede hacer que las posiciones de tus posts en el blog "
+"caigan dado que ahora los posts normales y las instrumentales serán "
+"mostrados ahí"
+
+#: inc/dashboard.php:1952
+msgid "By default they're separated and added in their own archive"
+msgstr "Por defecto están separadas y añadidas en su propio archivo"
+
+#: inc/dashboard.php:1952
+msgid "but you can add them to your blog too"
+msgstr "pero puedes añadirlas a tu blog también"
+
+#: inc/dashboard.php:1953
+msgid "Your blog posts page is"
+msgstr "Tu página del blog es"
+
+#: inc/dashboard.php:1961 inc/dashboard.php:1967
+msgid "Restrict Mouse Actions"
+msgstr "Restringir Acciones de Ratón"
+
+#: inc/dashboard.php:1965
+msgid "Disable right click and text selection"
+msgstr "Deshabilitar clic derecho y selección de texto"
+
+#: inc/dashboard.php:1967
+msgid ""
+"We encourage you to keep this option disabled because it can annoy your "
+"visitors and customers and that may increase your"
+msgstr ""
+"Te recomendamos que mantengas ésta opción desactivada porque puede molestar "
+"a tus visitantes y clientes, eso podría incrementar el"
+
+#: inc/dashboard.php:1967
+msgid "bounce rate"
+msgstr "rebote"
+
+#: inc/dashboard.php:1967
+msgid "and impact negatively on your website performance."
+msgstr "y impactar negativamente en rendimiento de tu página web."
+
+#: inc/dashboard.php:1967
+msgid ""
+"We've implemented this option in early builds of BeatPress when streaming "
+"links weren't encrypted with SHA256 encryption, but since there's no direct "
+"access to any MP3 files there's no reason to keep this option enabled."
+msgstr ""
+"Implementamos ésta opción en las primeras versiones de BeatPress cuando los "
+"enlaces de escucha no estaban encriptados con encriptación SHA256, así que "
+"desde que no hay acceso directo a los archivos MP3 no hay razón para "
+"mantener ésta opción activada."
+
+#: inc/dashboard.php:1967
+msgid ""
+"By default the direct link to any BeatPress MP3 file is encrypted and "
+"processed with the MP3 Server module (which is really, really fast!)."
+msgstr ""
+"Por defecto cualquier enlace a cualquier archivo MP3 de BeatPress está "
+"encriptado y procesado por el módulo del Servidor MP3 (¡el cual es realmente "
+"rápido!)."
+
+#: inc/dashboard.php:1970
+msgid ""
+"By activating this option you'll make your visitors unable to right click to "
+"inspect element or easily select text from your website"
+msgstr ""
+"Activando ésta opción harás que los visitantes de tu página web no puedan "
+"hacer clic derecho para inspeccionar elementos o que fácilmente seleccionen "
+"texto de tu web"
+
+#: inc/dashboard.php:1977 inc/dashboard.php:1983 inc/dashboard.php:1988
+#: inc/dashboard.php:1993
+msgid "Sharing Widget"
+msgstr "Widget de Compartir"
+
+#: inc/dashboard.php:1981
+msgid "Share in beat pages and blog posts"
+msgstr "Compartir en páginas de beats y en posts del blog"
+
+#: inc/dashboard.php:1983 inc/dashboard.php:1988 inc/dashboard.php:1993
+msgid ""
+"Giving your customers and listeners a way to share your craft is always a "
+"way to increase your exposure and reach to a targetted audience, so don't "
+"miss this option since it's really helpful."
+msgstr ""
+"Darle a tu audiencia y clientes una forma de compartir tu trabajo es siempre "
+"una buena forma de aumentar tu exposición y alcance a una audiencia similar, "
+"así que no te olvides de ésta opción porque es realmente útil."
+
+#: inc/dashboard.php:1983
+msgid ""
+"By activating this option the sharing widget will be showed in all your "
+"landing beat pages and also your regular blog posts (if you're into the "
+"blogging thing)."
+msgstr ""
+"Al activar ésta opción el widget de compartir será mostrado en todas tus "
+"páginas de beats y también en los posts del blog (si realmente lo vas a "
+"hacer)."
+
+#: inc/dashboard.php:1986
+msgid "Share only in beat pages"
+msgstr "Compartir sólo en páginas de beats"
+
+#: inc/dashboard.php:1988
+msgid ""
+"By activating this option the sharing widget will be showed ONLY in your "
+"landing beat pages, that means that regular blog posts will not show the "
+"sharing widget."
+msgstr ""
+"Al activar ésta opción el widget de compartir será mostrado SÓLO en las "
+"páginas de beats, esto significa que los posts del blog normales y "
+"corrientes no mostrarán el widget de compartir."
+
+#: inc/dashboard.php:1991
+msgid "Don't show the share buttons"
+msgstr "No mostrar los botones de compartir"
+
+#: inc/dashboard.php:1993
+msgid ""
+"By activating this option the sharing widget will not be showed. Your "
+"regular blog posts and your landing beat pages will not show the sharing "
+"widget :("
+msgstr ""
+"Al activar ésta opción el widget de compartir no será mostrado. Los posts "
+"del blog normales y corrientes y las páginas de beats no mostrarán el widget "
+"de compartir :("
+
+#: inc/dashboard.php:1996
+msgid "Select where you want to show your visitors the share buttons"
+msgstr ""
+"Selecciona donde quieres mostrar a tus visitantes los botones de compartir"
+
+#: inc/dashboard.php:2004 inc/dashboard.php:2010 inc/dashboard.php:2015
+#: inc/dashboard.php:2020
+msgid "Latest Beats"
+msgstr "Últimos Beats"
+
+#: inc/dashboard.php:2008
+msgid "Latest beats in beat pages and blog posts"
+msgstr "Últimos beats en páginas de beats y en posts del blog"
+
+#: inc/dashboard.php:2010 inc/dashboard.php:2015 inc/dashboard.php:2020
+msgid ""
+"That's a great way to increase the click ratio of your visitors and show "
+"Google they're are interested in your content, it's kown that Google takes "
+"that in consideration for their search results so the more an user interact "
+"with your website the better for your rankings."
+msgstr ""
+"Es una buena manera de incrementar el número de clics de tus visitantes y de "
+"mostrarle a Google que están interesados en tu contenido, es bien sabido que "
+"Google lo tiene en cuenta para sus resultados de búsqueda así que cuanto más "
+"interaccione un usuario con tu sitio web mejores serán los ránkings."
+
+#: inc/dashboard.php:2010
+msgid ""
+"By activating this option the latest beats widget will be showed in all your "
+"landing beat pages and also your regular blog posts (if you're into the "
+"blogging thing)."
+msgstr ""
+"Al activar ésta opción el widget con los últimos será mostrado en todas tus "
+"páginas de beats y también en los posts del blog (si realmente lo vas a "
+"hacer)."
+
+#: inc/dashboard.php:2013
+msgid "Latest beats only in beat pages"
+msgstr "Últimos beats sólo en páginas de beats"
+
+#: inc/dashboard.php:2015
+msgid ""
+"By activating this option the latest beats widget will be showed ONLY in "
+"your landing beat pages, that means that regular blog posts will not show "
+"the latest beats widget."
+msgstr ""
+"Al activar ésta opción el widget con los últimos beats será mostrado SÓLO en "
+"las páginas de beats, esto significa que los posts del blog normales y "
+"corrientes no mostrarán el widget de últimos beats."
+
+#: inc/dashboard.php:2018
+msgid "Don't show the latest beats section"
+msgstr "No mostrar la sección de últimos beats"
+
+#: inc/dashboard.php:2020
+msgid ""
+"By activating this option the latest beats widget will not be showed. Your "
+"regular blog posts and your landing beat pages will not show the latest "
+"beats widget :("
+msgstr ""
+"Al activar ésta opción el widget con los últimos beats será mostrado. Los "
+"posts del blog normales y corrientes y las páginas de beats no mostrarán el "
+"widget de con los últimos beats  :("
+
+#: inc/dashboard.php:2023
+msgid ""
+"Select where you want to show your visitors the latest five beats you "
+"uploaded"
+msgstr ""
+"Selecciona donde quieres mostrar a tus visitantes la sección de últimos beats"
+
+#: inc/dashboard.php:2030
+msgid "Color Scheme"
+msgstr "Esquema de Color"
+
+#: inc/dashboard.php:2033
+msgid "Select Color"
+msgstr "Seleccionar Color"
+
+#: inc/dashboard.php:2037
+msgid "Default color (Black over White)"
+msgstr "Color por Defecto (Negro sobre Blanco)"
+
+#: inc/dashboard.php:2038
+msgid "Purple (Purple over White)"
+msgstr "Lila (Lila sobre Blanco)"
+
+#: inc/dashboard.php:2039
+msgid "Blue (Blue over White)"
+msgstr "Azul (Azul sobre Blanco)"
+
+#: inc/dashboard.php:2040
+msgid "Orange (Orange over White)"
+msgstr "Naranja (Naranja sobre Blanco)"
+
+#: inc/dashboard.php:2041
+msgid "Red (Red over White)"
+msgstr "Rojo (Rojo sobre Blanco)"
+
+#: inc/dashboard.php:2042
+msgid "Pink (Pink over White)"
+msgstr "Rosa (Rosa sobre Blanco)"
+
+#: inc/dashboard.php:2043
+msgid "Limegreen (Limegreen over White)"
+msgstr "Verde Lima (Verde Lima sobre Blanco)"
+
+#: inc/dashboard.php:2044
+msgid ""
+"We know there are thousands of colors and themes, so select the color scheme "
+"that accurately fits your website"
+msgstr ""
+"Sabemos que hay miles de colores y temas, así que selecciona el esquema de "
+"color que mejor se integre con tu sitio web"
+
+#: inc/dashboard.php:2051
+msgid "Icon Support"
+msgstr "Soporte de Iconos"
+
+#: inc/dashboard.php:2054 inc/dashboard.php:2060
+msgid "Include FontAwesome"
+msgstr "Incluir FontAwesome"
+
+#: inc/dashboard.php:2058
+msgid "Auto-include the latest version of Font Awesome in your website"
+msgstr "Auto-incluir la última versión de Font Awesome en tu sitio web"
+
+#: inc/dashboard.php:2060
+msgid ""
+"BeatPress is using the latest version of vector font icons included in Font "
+"Awesome, that means that no matter the screen resolution they will be showed "
+"always in a great way without the usual blurs that are created by images, "
+"they'll always look on point."
+msgstr ""
+"BeatPress está utilizando la última versión de los iconos-fuente con "
+"vectores en Font Awesome, esto significa que no importa la resolución de la "
+"pantalla, los iconos siempre serán bien mostrados sin los borrones que "
+"suelen ser creados por las imágenes, siempre se verán en su sitio."
+
+#: inc/dashboard.php:2060
+msgid ""
+"Font Awesome is not included by default in BeatPress because some WordPress "
+"themes are used to auto-include it, so if your website doesn't show up the "
+"icons that means that you just need to activate this option. We'll take care "
+"about that."
+msgstr ""
+"Font Awesome no está incluído por defecto en BeatPress porque algunos temas "
+"de WordPress lo suelen auto incluir, así que si tu sitio web no muestra los "
+"iconos significa que simplemente debes activar ésta opción. Nos encargaremos "
+"de ello."
+
+#: inc/dashboard.php:2063
+msgid ""
+"BeatPress does use Font Awesome instead of images to show up quickly all the "
+"icons used by the application"
+msgstr ""
+"BeatPress utiliza Font Awesome en vez de imágenes para mostrar rápidamente "
+"todos los iconos utilizados por la aplicación"
+
+#: inc/dashboard.php:2063
+msgid "If your website doesn't show up the icons then enable this option"
+msgstr "Si tu página web no muestra los iconos entonces activa ésta opción"
+
+#: inc/dashboard.php:2071
+msgid "Core Functions"
+msgstr "Funciones del Núcleo"
+
+#: inc/dashboard.php:2074 inc/dashboard.php:2080
+msgid "Archive Styling"
+msgstr "Estilizar Archivos"
+
+#: inc/dashboard.php:2078
+msgid "Replace WordPress styling on Instrumentals Archives"
+msgstr "Reeemplaza el estilo de WordPress en los archivos de Instrumentales"
+
+#: inc/dashboard.php:2080
+msgid ""
+"We've been dealing with the WordPress stylings for years, until now. There's "
+"a way to transform those boring archives into something more user friendly. "
+"By activating this option you'll transform your Genre archives into "
+"something perfect for your customers and visitors."
+msgstr ""
+"Hemos estado peleándonos con los estilos de WordPress durante años, hasta "
+"ahora. Hay una forma de transformar los aburridos archivos de WordPress en "
+"algo que sea bonito para el usuario. Al activar ésta opción transformarás "
+"los archivos de Géneros en algo perfecto para tus clientes y visitantes."
+
+#: inc/dashboard.php:2080
+msgid ""
+"We tried to show a custom genre playlist at the top of each Genre archive, "
+"but since there's no API or documentation available except creating a child "
+"theme template we decided to remove any customized playlist for now, "
+"BeatPress is global and it should work with most of the WordPress themes out "
+"there, if we create a child theme template we'll need to create one for each "
+"available theme, such an impossible thing."
+msgstr ""
+"Hemos intentado mostrar una lista de reproducción personalizada en cada "
+"archivo de cada Género, pero como no hay ninguna API o documentación "
+"disponible excepto la posibilidad de crear una plantilla de tema hijo hemos "
+"decidido eliminar cualquier lista de reproducción personalizada por ahora, "
+"BeatPress es global y debería funcionar con la mayoría de temas para "
+"WordPress, si creamos una plantilla de tema hijo necesitaremos crear una "
+"para cada tema disponible, y es algo casi imposible."
+
+#: inc/dashboard.php:2083
+msgid ""
+"If you check this option the Instrumentals Archives excerpt will be "
+"automatically taken from the SEO Introduction option of each beat page"
+msgstr ""
+"Si activas ésta opción el extracto de los Archivos de Instrumentales será "
+"automáticamente cogido de la Introducción SEO de cada página de beat"
+
+#: inc/dashboard.php:2083
+msgid "In addition, it will also show all the genres of that beat"
+msgstr "Adicionalmente, también mostrará los géneros de ese beat"
+
+#: inc/dashboard.php:2083
+msgid "(Max: 4 genres)"
+msgstr "(Máximo: 4 géneros)"
+
+#: inc/dashboard.php:2091 inc/dashboard.php:2097
+msgid "Instrumentals Archive Titles"
+msgstr "Título de los Archivos de Instrumentales"
+
+#: inc/dashboard.php:2095
+msgid "Replace the title on Instrumentals Archive pages"
+msgstr "Reemplaza el título en los Archivos de Instrumentales"
+
+#: inc/dashboard.php:2097
+msgid ""
+"By enabling this option you can modify the way and the title that Genre "
+"archives have to be showed up in Google, it's pretty useful because "
+"WordPress archives were used to be useless, until now. For each Genre a "
+"Genre archive is automatically generated, so play with it here and there and "
+"try to make it catchy for Google users."
+msgstr ""
+"Activando ésta opción podrás modificar la forma en la que el título de los "
+"archivos de Géneros deben ser mostrados en Google, es bastante útil porque "
+"los archivos de WordPres suelen ser inútiles, hasta ahora. Para cada género "
+"un archivo de género es generado automáticamente, así que juega con eso aquí "
+"y allí e intenta hacerlo llamativo para los usuarios de Google."
+
+#: inc/dashboard.php:2097
+msgid ""
+"You can make them all show up in Google as \"Buy and Download %GENRE% Beats "
+"For Free\" or \"Download 2019 %GENRE% Beats and Instrumentals\", options are "
+"endless so play with it accordingly."
+msgstr ""
+"Puedes hacer que se vean en Google como \"Compra y Descarga Beats de %GÉNERO"
+"% Gratis\" o \"Descargar Bases de %GÉNERO% e Instrumentales 2019\", las "
+"opciones son infinitas así que juega con ésto de forma acorde."
+
+#: inc/dashboard.php:2100
+msgid ""
+"If you check this option you'll be able to change the default title of the "
+"Instrumentals archives"
+msgstr ""
+"Si activas ésta opción podrás cambiar el título por defecto de los archivos "
+"de Instrumentales"
+
+#: inc/dashboard.php:2100
+msgid "Type below how you'd like to show your beat genre archives"
+msgstr "Escribe debajo cómo te gustaría mostrar los archivos de géneros"
+
+#: inc/dashboard.php:2101
+msgid "Before"
+msgstr "Antes"
+
+#: inc/dashboard.php:2101
+msgid "\"GENRE\""
+msgstr "\"GÉNERO\""
+
+#: inc/dashboard.php:2101
+msgid "After"
+msgstr "Después"
+
+#: inc/dashboard.php:2102
+msgid "Actual example"
+msgstr "Ejemplo actual"
+
+#: inc/dashboard.php:2138
+msgid "Your Information"
+msgstr "Tu Información"
+
+#: inc/dashboard.php:2141 inc/dashboard.php:2145
+msgid "Producer Name"
+msgstr "Nombre de Productor"
+
+#: inc/dashboard.php:2143
+msgid "Who are you fam?"
+msgstr "¿Quién eres colega?"
+
+#: inc/dashboard.php:2145
+msgid "That is... Your producer name, your A.K.A., your artistic name."
+msgstr "Ésto es... Tu nombre de productor, tu A.K.A., tu nombre artístico."
+
+#: inc/dashboard.php:2145
+msgid ""
+"You can also make it work as a team by adding Team at the end of the name if "
+"the website you're building up is a showcase of different producers."
+msgstr ""
+"También puedes hacer que se vea como un equipo añadiendo Team al final del "
+"nombre si el sitio web que estás construyendo es un escaparate de varios "
+"productores."
+
+#: inc/dashboard.php:2148
+msgid "Will be used to customize some text fields"
+msgstr "Será usado para configurar algunos campos de texto"
+
+#: inc/dashboard.php:2153 inc/dashboard.php:2157
+msgid "Your E-Mail Address"
+msgstr "Correo Electrónico"
+
+#: inc/dashboard.php:2155
+msgid "Your business email"
+msgstr "Tu correo de negocios"
+
+#: inc/dashboard.php:2157
+msgid ""
+"Your personal / business email address, it can be the same as your PayPal "
+"address or not so that's why there are two email options."
+msgstr ""
+"Tu dirección de correo personal o de negocios, puede ser la misma que tu "
+"dirección de PayPal o no, por eso hay dos opciones para correos electrónicos."
+
+#: inc/dashboard.php:2157
+msgid ""
+"Some people like to keep their businesses separate from their personal life "
+"and we have to respect that."
+msgstr ""
+"A muchas personas les gusta mantener sus negocios separados de su vida "
+"personal y tenemos que respetar eso."
+
+#: inc/dashboard.php:2160
+msgid ""
+"Will be used to handle in-app contact forms and BeatPress updates via e-mail"
+msgstr ""
+"Será usado para tramitar los formularios de contacto y las actualizaciones "
+"de BeatPress por correo electrónico"
+
+#: inc/dashboard.php:2170 inc/dashboard.php:2190
+msgid "Your Logo"
+msgstr "Tu Logo"
+
+#: inc/dashboard.php:2190
+msgid ""
+"You may wonder why a business logo should have a help option... Ok, just to "
+"let you know to keep it square but also to clarify that BeatPress will not "
+"resize this image so please keep the size according to the tiny image that "
+"it should be. You can even use a 1024x1024px image, but it will dramatically "
+"increase your page speed load time."
+msgstr ""
+"Te estarás preguntando porque un logo de un negocio debe tenr una opción de "
+"ayuda... De acuerdo, simplemente para hacerte saber que debe ser un cuadrado "
+"y también para aclarar que BeatPress no redimensionará ésta imagen, así que "
+"mantén el tamaño acorde a la pequeña imagen que debería ser. Puedes incluso "
+"utilizar una imagen de 1024x1024px, pero incrementaría de forma drástica el "
+"tiempo de carga de tu web."
+
+#: inc/dashboard.php:2195
+msgid "Recommended size 128 x 128 px"
+msgstr "Tamaño recomendado 128 x 128 px"
+
+#: inc/dashboard.php:2204
+msgid "Logo Image"
+msgstr "Imagen del Logo"
+
+#: inc/dashboard.php:2206
+msgid "Upload Logo"
+msgstr "Subir Logo"
+
+#: inc/dashboard.php:2260
+msgid "Social"
+msgstr "Redes Sociales"
+
+#: inc/dashboard.php:2265 inc/dashboard.php:2271
+msgid "Links in catalog page"
+msgstr "Enlaces en el catálogo"
+
+#: inc/dashboard.php:2269
+msgid "Show links to your social networks below your catalog"
+msgstr "Muestra los enlaces de tus redes sociales debajo del catálogo"
+
+#: inc/dashboard.php:2271
+msgid ""
+"By activating this option you can showcase a list of icons linking to your "
+"social networks at the bottom of your catalog page. Leave blank the social "
+"networks you don't have an account in to make them don't get showed up."
+msgstr ""
+"Activando ésta opción puedes mostrar un conjunto de iconos enlazando a tus "
+"redes sociales justo debajo de la página del catálogo. Deja en blanco las "
+"redes sociales en las que no tengas cuenta para que no se muestren."
+
+#: inc/dashboard.php:2274
+msgid ""
+"Enable this option to show or hide your social networks below your catalog "
+"page"
+msgstr ""
+"Activa ésta opción para mostrar o esconder tus redes sociales justo debajo "
+"de tu catálogo"
+
+#: inc/dashboard.php:2281
+msgid "Twitter URL"
+msgstr "Enlace de Twitter"
+
+#: inc/dashboard.php:2284
+msgid ""
+"Will be used to display a link to your Twitter profile, leave blank to do "
+"not display"
+msgstr ""
+"Será usado para mostrar un enlace apuntando a tu perfil de Twitter, déjalo "
+"en blanco para no mostrarlo"
+
+#: inc/dashboard.php:2289
+msgid "Facebook URL"
+msgstr "Enlace de Facebook"
+
+#: inc/dashboard.php:2292
+msgid ""
+"Will be used to display a link to your Facebook profile, leave blank to do "
+"not display"
+msgstr ""
+"Será usado para mostrar un enlace apuntando a tu perfil de Facebook, déjalo "
+"en blanco para no mostrarlo"
+
+#: inc/dashboard.php:2297
+msgid "SoundCloud URL"
+msgstr "Enlace de SoundCloud"
+
+#: inc/dashboard.php:2300
+msgid ""
+"Will be used to display a link to your SoundCloud profile, leave blank to do "
+"not display"
+msgstr ""
+"Será usado para mostrar un enlace apuntando a tu perfil de SoundCloud, "
+"déjalo en blanco para no mostrarlo"
+
+#: inc/dashboard.php:2305
+msgid "Instagram URL"
+msgstr "Enlace de Instagram"
+
+#: inc/dashboard.php:2308
+msgid ""
+"Will be used to display a link to your Instagram profile, leave blank to do "
+"not display"
+msgstr ""
+"Será usado para mostrar un enlace apuntando a tu perfil de Instagram, déjalo "
+"en blanco para no mostrarlo"
+
+#: inc/dashboard.php:2313
+msgid "YouTube URL"
+msgstr "Enlace de YouTube"
+
+#: inc/dashboard.php:2316
+msgid ""
+"Will be used to display a link to your YouTube profile, leave blank to do "
+"not display"
+msgstr ""
+"Será usado para mostrar un enlace apuntando a tu perfil de YouTube, déjalo "
+"en blanco para no mostrarlo"
+
+#: inc/dashboard.php:2321
+msgid "Reddit URL"
+msgstr "Enlace de Reddit"
+
+#: inc/dashboard.php:2324
+msgid ""
+"Will be used to display a link to your Reddit profile, leave blank to do not "
+"display"
+msgstr ""
+"Será usado para mostrar un enlace apuntando a tu perfil de Reddit, déjalo en "
+"blanco para no mostrarlo"
+
+#: inc/dashboard.php:2329
+msgid "BeatStars URL"
+msgstr "Enlace de BeatStars"
+
+#: inc/dashboard.php:2332
+msgid ""
+"Will be used to display a link to your BeatStars profile, leave blank to do "
+"not display"
+msgstr ""
+"Será usado para mostrar un enlace apuntando a tu perfil de BeatStars, déjalo "
+"en blanco para no mostrarlo"
+
+#: inc/dashboard.php:2337
+msgid "Airbit URL"
+msgstr "Enlace de Airbit"
+
+#: inc/dashboard.php:2340
+msgid ""
+"Will be used to display a link to your Airbit profile, leave blank to do not "
+"display"
+msgstr ""
+"Será usado para mostrar un enlace apuntando a tu perfil de Airbit, déjalo en "
+"blanco para no mostrarlo"
+
+#: inc/dashboard.php:2372 inc/dashboard.php:2379
+msgid "First License"
+msgstr "Primera Licencia"
+
+#: inc/dashboard.php:2375 inc/dashboard.php:2410 inc/dashboard.php:2442
+#: inc/dashboard.php:2474
+msgid "License Name"
+msgstr "Nombre de Licencia"
+
+#: inc/dashboard.php:2377
+msgid "Untagged MP3 Lease"
+msgstr "Leasing en MP3"
+
+#: inc/dashboard.php:2379
+msgid ""
+"Here you can modify the heading, default price and subheading of the first "
+"license (commonly the Untagged MP3 Lease / Basic Lease)."
+msgstr ""
+"Aquí puedes modificar el encabezado, precio por defecto y subtítulo de la "
+"primera licencia (normalmente es el Leasing en MP3 / Leasing Básico)."
+
+#: inc/dashboard.php:2379 inc/dashboard.php:2414 inc/dashboard.php:2446
+#: inc/dashboard.php:2478
+msgid ""
+"Those are the prices that are showed by default in your catalog and in your "
+"landing beat pages, if you specify a different price for this license in a "
+"single beat page then it will override the default price (this price)."
+msgstr ""
+"Éstos son los precios que son mostrados por defecto en tu catálogo y en las "
+"páginas de beats, si especificas un precio diferente para ésta licencia en "
+"una página de beat se tomará ese precio en vez de el precio por defecto "
+"(éste precio)."
+
+#: inc/dashboard.php:2382
+msgid "The name of your first license"
+msgstr "El nombre de tu primera licencia"
+
+#: inc/dashboard.php:2387 inc/dashboard.php:2422 inc/dashboard.php:2454
+#: inc/dashboard.php:2486
+msgid "License Price"
+msgstr "Precio de Licencia"
+
+#: inc/dashboard.php:2390
+msgid "The price of your first license"
+msgstr "El precio de tu primera licencia"
+
+#: inc/dashboard.php:2395 inc/dashboard.php:2430 inc/dashboard.php:2462
+#: inc/dashboard.php:2494
+msgid "Sub-Heading"
+msgstr "Subtítulo"
+
+#: inc/dashboard.php:2397
+msgid "MP3"
+msgstr "MP3"
+
+#: inc/dashboard.php:2398
+msgid "The sub-heading of your first license"
+msgstr "El subtítulo de tu primera licencia"
+
+#: inc/dashboard.php:2407 inc/dashboard.php:2414
+msgid "Second License"
+msgstr "Segunda Licencia"
+
+#: inc/dashboard.php:2412
+msgid "Untagged WAV Lease"
+msgstr "Leasing en WAV"
+
+#: inc/dashboard.php:2414
+msgid ""
+"Here you can modify the heading, default price and subheading of the second "
+"license (commonly the Untagged WAV Lease / Silver Lease)."
+msgstr ""
+"Aquí puedes modificar el encabezado, precio por defecto y subtítulo de la "
+"segunda licencia (normalmente es el Leasing en WAV  / Leasing Plata)."
+
+#: inc/dashboard.php:2417
+msgid "The name of your second license"
+msgstr "El nombre de tu segunda licencia"
+
+#: inc/dashboard.php:2425
+msgid "The price of your second license"
+msgstr "El precio de tu segunda licencia"
+
+#: inc/dashboard.php:2432
+msgid "WAV"
+msgstr "WAV"
+
+#: inc/dashboard.php:2433
+msgid "The sub-heading of your second license"
+msgstr "El subtítulo de tu segunda licencia"
+
+#: inc/dashboard.php:2439 inc/dashboard.php:2446
+msgid "Third License"
+msgstr "Tercera Licencia"
+
+#: inc/dashboard.php:2444
+msgid "Untagged Premium"
+msgstr "Leasing Premium"
+
+#: inc/dashboard.php:2446
+msgid ""
+"Here you can modify the heading, default price and subheading of the third "
+"license (commonly the Untagged Premium Lease / Track-outs Lease)."
+msgstr ""
+"Aquí puedes modificar el encabezado, precio por defecto y subtítulo de la "
+"tercera licencia (normalmente es el Leasing Premium  / Beat Por Pistas)."
+
+#: inc/dashboard.php:2449
+msgid "The name of your third license"
+msgstr "El nombre de tu tercera licencia"
+
+#: inc/dashboard.php:2457
+msgid "The price of your third license"
+msgstr "El precio de tu tercera licencia"
+
+#: inc/dashboard.php:2464 inc/dashboard.php:2496
+msgid "Trackouts + Stems"
+msgstr "Beat Por Pistas"
+
+#: inc/dashboard.php:2465
+msgid "The sub-heading of your third license"
+msgstr "El subtítulo de tu tercera licencia"
+
+#: inc/dashboard.php:2471 inc/dashboard.php:2478
+msgid "Fourth License"
+msgstr "Cuarta Licencia"
+
+#: inc/dashboard.php:2476
+msgid "Untagged Unlimited"
+msgstr "Leasing Ilimitado"
+
+#: inc/dashboard.php:2478
+msgid ""
+"Here you can modify the heading, default price and subheading of the fourth "
+"license (commonly the Untagged Unlimited Lease / Unlimited Track-outs Lease)."
+msgstr ""
+"Aquí puedes modificar el encabezado, precio por defecto y subtítulo de la "
+"cuarta licencia (normalmente es el Leasing Ilimitado / Beat Por Piistas "
+"Ilimitado)."
+
+#: inc/dashboard.php:2481
+msgid "The name of your fourth license"
+msgstr "El nombre de tu cuarta licencia"
+
+#: inc/dashboard.php:2489
+msgid "The price of your fourth license"
+msgstr "El precio de tu cuarta licencia"
+
+#: inc/dashboard.php:2497
+msgid "The sub-heading of your fourth license"
+msgstr "El subtítulo de tu cuarta licencia"
+
+#: inc/dashboard.php:2537
+msgid "Banner Settings"
+msgstr "Banner"
+
+#: inc/dashboard.php:2542 inc/dashboard.php:2562
+msgid "Catalog Page Banner"
+msgstr "Banner del Catálogo"
+
+#: inc/dashboard.php:2562
+msgid ""
+"That's your website banner, pretty similar to a slider, but without all the "
+"excess of JavaScript code that it needs and that will increase your website "
+"load time for sure. The recommended resolution in pixels is 1920x400 px, but "
+"it will fit the width of your catalog page so play with it accordinly."
+msgstr ""
+"Éste es el banner de tu página web, muy similar a un slider, pero sin todo "
+"el exceso de código JavaScript que necesita y que incrementa el tiempo de "
+"carga de tu web por supuesto. La resolución recomendada en píxeles es de "
+"1920x400 px, pero se ajustará al ancho de tu página de catálogo así que "
+"juega con ésto de forma acorde."
+
+#: inc/dashboard.php:2569
+msgid "Recommended size 1920 x 400 px"
+msgstr "Tamaño recomendado 1920 x 400 px"
+
+#: inc/dashboard.php:2578
+msgid "Custom Banner"
+msgstr "Banner Personalizado"
+
+#: inc/dashboard.php:2580
+msgid "Upload Banner"
+msgstr "Subir Banner"
+
+#: inc/dashboard.php:2599 inc/dashboard.php:2603
+msgid "Catalog Banner Title"
+msgstr "Título del Banner"
+
+#: inc/dashboard.php:2601
+msgid "Type related keywords..."
+msgstr "Escribe palabras clave relacionadas..."
+
+#: inc/dashboard.php:2603
+msgid ""
+"Here you should type some related keywords and with your domain, also "
+"keyword variations are useful but don't make it look spammy. Try to put as "
+"many possible keywords but making an understandable 20/25 words sentence, "
+"it's still useful for SEO purposes."
+msgstr ""
+"Aquí deberías escribir algunas palabras clave relacionadas con tu dominio "
+"web, las variaciones de palabras clave también son útiles pero no lo hagas "
+"parecer muy spammer. Intenta poner tantas palabras clave como sean posibles "
+"pero haciendo una sentencia de 20/25 palabras inteligible, es súper útil "
+"para el SEO."
+
+#: inc/dashboard.php:2603
+msgid ""
+"Example: Trap Beats and Trap Instrumentals - The best place to download Trap "
+"Beats and Instrumentals for your next album or mixtape!"
+msgstr ""
+"Ejemplo: Beats de Trap e Instrumentales de Hip Hop - El mejor sitio para "
+"descargar Bases de Trap e Instrumentales para tu próximo álbum o mixtape!"
+
+#: inc/dashboard.php:2606
+msgid ""
+"Specify the \"alt\" and \"title\" attributes of your catalog page banner"
+msgstr ""
+"Especifica el atributo \"alt\" y \"title\" del banner de tu página de "
+"catálogo"
+
+#: inc/dashboard.php:2611
+msgid "Catalog Settings"
+msgstr "Opciones del Catálogo"
+
+#: inc/dashboard.php:2615 inc/dashboard.php:2623
+msgid "Display page title"
+msgstr "Muestra el título"
+
+#: inc/dashboard.php:2621
+msgid "Show the title of your catalog page"
+msgstr "Muestra el título de tu página de catálogo"
+
+#: inc/dashboard.php:2623
+msgid ""
+"That's not the same title as the previous option title, that's the title of "
+"your catalog page. It's automatically extracted from the WordPress page "
+"you've selected as the catalog page (usually the front page)."
+msgstr ""
+"Ésto no es el mismo título que el de la opción anterior, éste es el título "
+"de tu página del catálogo. Es extraído automáticamente de la página de "
+"WordPress que has seleccionado como el catálogo (normalmente el home o "
+"página principal)."
+
+#: inc/dashboard.php:2623
+msgid ""
+"It will be showed up as an H1 heading, the most important heading for SEO "
+"purposes so if you can't see any title on your catalog page you better keep "
+"this option enabled, some themes doesn't show the H1 heading if the content "
+"is dynamically generated."
+msgstr ""
+"Será mostrado como un encabezado H1, el encabezado más importante para el "
+"SEO así que si no puedes ver ningún título en tu página del catálogo mejor "
+"que actives ésta opción, algunos temas no muestran el encabezado H1 si el "
+"contenido es generado dinámicamente."
+
+#: inc/dashboard.php:2623
+msgid "Edit your Front Page title here"
+msgstr "Edita el título del Home aquí"
+
+#: inc/dashboard.php:2626
+msgid ""
+"Show or hide the title of your catalog page straight before your catalog "
+"page, that's a must for SEO purposes"
+msgstr ""
+"Muestra u oculta el título de tu página de catálogo justo antes de tu "
+"catálogo, es casi imperativo para tener un buen SEO"
+
+#: inc/dashboard.php:2627
+msgid ""
+"Some themes don't show the title by default when the content is dynamically "
+"generated so thats why that option is here"
+msgstr ""
+"Algunos temas no muestran el título por defecto cuando el contenido es "
+"generado de forma dinámica así que es por eso por lo que ésta opción está "
+"aquí"
+
+#: inc/dashboard.php:2634 inc/dashboard.php:2640
+msgid "Use Modal Box"
+msgstr "Utilizar Modal"
+
+#: inc/dashboard.php:2638
+msgid "Use modal box instead of slides to show purchase buttons"
+msgstr ""
+"Utilizar modal en vez de diapositivas para mostrar los botones de compra"
+
+#: inc/dashboard.php:2640
+msgid ""
+"BeatPress has two ways to display the purchase buttons in your beats "
+"catalog, by using slides (the default) and by using a modal popup (or "
+"commonly modal box). Both of them are responsive and SEO friendly, but in "
+"mobile devices we think the conversion rate is higher by using modal boxes."
+msgstr ""
+"BeatPress tiene dos formas de mostrar los botones de compra en el catálogo "
+"de beats, usando diapositivas (por defecto) y usando ventanas emergentes "
+"modal (comúnmente Modal Box). Ambas son responsivas y optimizadas para el "
+"SEO, aunque en dispositivos móviles pensamos que la tasa de conversión es "
+"más alta usando modal boxes."
+
+#: inc/dashboard.php:2640
+msgid ""
+"The best way to know if you need to use slides (this option disabled) or "
+"modal boxes (this option enabled) is to try them both. In our private tests "
+"the slides performed better in SEO terms and rankings, but most of the leads "
+"came from modal boxes so feel free to choose the one you like the most."
+msgstr ""
+"La mejor manera de saber si necesitas usar diapositivas (ésta opción "
+"desactivada) o modal boxes (ésta opción activada) es probar ambas. En "
+"nuestras pruebas las diapositivas fueron mejores en términos de SEO y "
+"ránkings, pero la mayoría de ventas fueron desde modal boxes así que "
+"siéntete libre de elegir el que más te guste."
+
+#: inc/dashboard.php:2643
+msgid ""
+"Use Modal Boxes (inner popups) instead of jQuery slides to show the purchase "
+"buttons on your beats catalog"
+msgstr ""
+"Utilizar Modals (popups dentro de la propia página) en vez de diapositivas "
+"de jQuery para mostrar los botones de comprar en tu catálogo de beats"
+
+#: inc/dashboard.php:2651 inc/dashboard.php:2657
+msgid "Catalog Page"
+msgstr "Página del Catálogo"
+
+#: inc/dashboard.php:2657
+msgid ""
+"In order to show your catalog first you need to create a catalog page, and "
+"then select here that page that you've just created. You may think... Oh "
+"why? Because BeatPress can be installed in fresh WordPress installations and "
+"also in already developed websites trying to migrate and redesign the whole "
+"thing, that's why we don't want to automatically create pages in any website."
+msgstr ""
+"Para poder mostrar tu catálogo primero necesitas crear una página para el "
+"catálogo, y una vez creada seleccionar aquí esa página que acabas de crear. "
+"Puedes pensar... ¿Por qué? Porque BeatPress puede ser instalado en "
+"instalaciones nuevas de WordPress y también en sitios web ya desarrollados "
+"intentando migrar y rediseñar todo, por eso no queremos crear páginas en "
+"ningún sitio web de forma automáticamente."
+
+#: inc/dashboard.php:2657
+msgid "You can create a new page"
+msgstr "Puedes crear una nueva página"
+
+#: inc/dashboard.php:2657
+msgid "right here"
+msgstr "aquí"
+
+#: inc/dashboard.php:2657
+msgid ""
+"and if needed, you should be able to select it as the Front Page in your "
+"Theme Options."
+msgstr ""
+"y si es necesario, deberías ser capaz de seleccionarla como la página "
+"principal o home en las opciones de tu tema."
+
+#: inc/dashboard.php:2660
+msgid "The page where your complete beats catalog will be showed"
+msgstr "La página donde tu catálogo completo de beats será mostrado"
+
+#: inc/dashboard.php:2661 inc/dashboard.php:2808
+msgid "Current URL:"
+msgstr "Enlace Actual:"
+
+#: inc/dashboard.php:2668 inc/dashboard.php:2674 inc/instrumentals.php:575
+msgid "SEO Paragraph 1"
+msgstr "Párrafo SEO 1"
+
+#: inc/dashboard.php:2672
+msgid "I think you should write some stuff here..."
+msgstr "Creo que deberías escribir algo aquí..."
+
+#: inc/dashboard.php:2674
+#, php-format
+msgid ""
+"What's a SEO Paragraph? Well, keep in mind that BeatPress is a SEO focused "
+"plugin, that means that everything we implement in the source code is "
+"focused in Search Engine Optimization, everyone in the game is doing a great "
+"game in YouTube SEO but what about websites? An iFrame is just not enough to "
+"get into leads, and we all are missing the 40% of internet traffic in sales "
+"and exposure because of that, it's in your hands to change that or not, "
+"that's why BeatPress exists."
+msgstr ""
+"¿Qué es un párrafo SEO? Bien, tengamos en mente que BeatPress es un plugin "
+"centrado en el SEO, eso significa que todo lo que implementamos en el código "
+"fuente está enfocado a la Optimización de Motores de Búsqueda, todo el mundo "
+"en éste juego está jugando bien haciendo SEO en YouTube, ¿pero qué hay del "
+"SEO para páginas web? Un iFrame no es suficiente para conseguir ventas, y "
+"estamos perdiendo el 40% del tráfico de internet en ventas y exposicion por "
+"eso, está en tus manos cambiarlo o no, por eso existe BeatPress."
+
+#: inc/dashboard.php:2674
+msgid ""
+"The recommended lenght of that SEO Paragraph is at least 2500 well written "
+"words with understandable sentences, Google doesn't like empty phrases so "
+"that means no spinned texts, no plagiarized texts and always SEO focused, "
+"targeting as many related keywords as possible. If you think 2500 words is "
+"not enough you can take it to 5k or even 10k, set your own limit and test "
+"yourself! It's HTML ready so feel free to play with it if you know what you "
+"doing."
+msgstr ""
+"La longitud recomendada de éste Párrafo SEO es al menos 2500 palabras bien "
+"escritas con sentencias inteligibles, a Google no le gustan las frases "
+"vacías así que eso quiere decir nada de textos spinneados, nada de textos "
+"plagiados y siempre enfocados en el SEO, apuntando a tantas palabras clave "
+"como sea posible. Si piensas que 2500 palabras no es suficiente puedes "
+"llevarlo a 5k o incluso 10k, ¡pon tu propio límite y pruébate! Está listo "
+"para funcionar con HTML así que siéntete libre de jugar con eso si sabes lo "
+"que estás haciendo."
+
+#: inc/dashboard.php:2677
+msgid ""
+"Type here what you'd like to show in below the title (if existing) of your "
+"Catalog page"
+msgstr ""
+"Escribe aquí lo que te gustaría que apareciese debajo del título (si existe) "
+"de tu página de Catálogo"
+
+#: inc/dashboard.php:2678
+msgid "Leave blank to disable SEO Paragraph 1"
+msgstr "Dejar en blanco para deshabilitar el Párrafo SEO 1"
+
+#: inc/dashboard.php:2679
+msgid "Recommended: 2500 words minimum"
+msgstr "Recomendado: 2500 palabras mínimo"
+
+#: inc/dashboard.php:2680 inc/dashboard.php:2699 inc/dashboard.php:3321
+msgid "*This paragraph is HTML ready"
+msgstr "*Éste párrafo soporta código en HTML"
+
+#: inc/dashboard.php:2687 inc/dashboard.php:2693
+msgid "Licenses HTML Code"
+msgstr "Código HTML de Licencias"
+
+#: inc/dashboard.php:2691
+msgid "I think you should write some stuff here too..."
+msgstr "Creo que deberías escribir algo aquí también..."
+
+#: inc/dashboard.php:2693
+msgid ""
+"This text box works as the previous SEO Paragraph, but it's intended to show "
+"your different beat licenses and prices."
+msgstr ""
+"Ésta caja de texto funciona como el Párrafo SEO anterior, pero se supone que "
+"es para mostrar tus diferentes precios y licencias."
+
+#: inc/dashboard.php:2693
+msgid "Keep it short and feel free to place even the CSS code right here."
+msgstr "Mantenlo corto y siéntete libre de poner aquí incluso el código CSS."
+
+#: inc/dashboard.php:2696
+msgid ""
+"Almost any professional WordPress theme contains a Pricing Table module, "
+"paste the output HTML code here"
+msgstr ""
+"Cualquier tema profesional de WordPress contiene un módulo de Tabla de "
+"Precios, pega aquí el código HTML de la tabla"
+
+#: inc/dashboard.php:2697
+msgid ""
+"It will be showed at the very bottom of your catalog page, below the bottom "
+"SEO Paragraph"
+msgstr ""
+"Será mostrado al final del todo de tu página de catálogo, debajo del Párrafo "
+"SEO 1"
+
+#: inc/dashboard.php:2698
+msgid "Leave blank to disable Licenses HTML Code"
+msgstr "Déjalo en blanco para deshabilitar el Código HTML de Licencias"
+
+#: inc/dashboard.php:2706 inc/dashboard.php:2712
+msgid "Display Sold Beats"
+msgstr "Muestra Beats Vendidos"
+
+#: inc/dashboard.php:2710
+msgid "Show the exclusively sold beats"
+msgstr "Muestra los beats que han sido vendidos de forma exclusiva"
+
+#: inc/dashboard.php:2712
+msgid ""
+"There's no need to explain what this option does, but there are a few things "
+"you should know about. If the option to show the exclusively sold beats is "
+"active and you want to move a beat to the bottom of your playlist you just "
+"need to go to the"
+msgstr ""
+"No hay necesidad de explicar lo que hace ésta opción, pero hay algunas cosas "
+"que deberías saber. Si la opción para mostrar los beats vendidos de forma "
+"exclusiva está activada y quieres mover un beat vendido a la última posición "
+"en la lista de reproducción del catálogo simplemente tienes que ir al menú de"
+
+#: inc/dashboard.php:2712 inc/instrumentals.php:9 inc/instrumentals.php:10
+#: inc/instrumentals.php:133
+msgid "Instrumentals"
+msgstr "Instrumentales"
+
+#: inc/dashboard.php:2712
+msgid ""
+"menu, find the beat that was exclusively sold and click on \"Quick Edit\"."
+msgstr ""
+", buscar el beat que fue vendido de forma exclusiva y hacer clic en "
+"\"Edición Rápida\"."
+
+#: inc/dashboard.php:2712
+msgid ""
+"Then you just have to modify the year date (which is the creation date) of "
+"that beat, for example:"
+msgstr ""
+"Ahí simplemente tienes que modificar el año de la fecha (la cual es la fecha "
+"de creación) del beat vendido, por ejemplo:"
+
+#: inc/dashboard.php:2712
+msgid "instead of"
+msgstr "en vez de"
+
+#: inc/dashboard.php:2715
+msgid ""
+"Show or hide the beats exclusively sold or marked as sold, they will be "
+"still playable"
+msgstr ""
+"Muestra u oculta los beats que han sido vendidos de forma exclusiva, se "
+"podrán escuchar"
+
+#: inc/dashboard.php:2722 inc/dashboard.php:2728
+msgid "Open in new window"
+msgstr "Abrir en Nueva Ventana"
+
+#: inc/dashboard.php:2726
+msgid "Open your beats in a new window"
+msgstr "Abre tus beats en una nueva ventana"
+
+#: inc/dashboard.php:2728
+msgid ""
+"By enabling this option you can make your visitors open a new page each time "
+"they click on any download button. That's sometimes helpful to increase the "
+"time each user has your page open and would decrease the bounce rate."
+msgstr ""
+"Activando ésta opción puedes hacer que tus visitantes abran una nueva página "
+"cada vez que hagan clic en el botón de descargar. A veces es útil para "
+"aumentar el tiempo que cada usuario tiene tu página abierta y eso debería "
+"bajar el rebote."
+
+#: inc/dashboard.php:2728
+msgid ""
+"Keep in mind that you should keep this option deactivated by default and "
+"enable it only if you see that's performing worse than usual."
+msgstr ""
+"Ten en cuenta que deberías mantener ésta opción desactivada por defecto y "
+"activarla sólo si ves que tu web tiene un rendimiento peor del normal."
+
+#: inc/dashboard.php:2731
+msgid ""
+"By default beats are opened in the same window when click on a beat link "
+"straight in the the catalog section"
+msgstr ""
+"Por defecto los beats son abiertos en la misma ventana cuando haces clic en "
+"el enlace de un beat justo en la sección del catálogo"
+
+#: inc/dashboard.php:2732
+msgid ""
+"Your beat pages will be opened in a new window if you activate this option"
+msgstr ""
+"Las páginas de beats serán abiertas en una nueva ventana si activas ésta "
+"opción"
+
+#: inc/dashboard.php:2739 inc/dashboard.php:2752
+msgid "Beats to display"
+msgstr "Beats para Mostrar"
+
+#: inc/dashboard.php:2750
+msgid "beats"
+msgstr "beats"
+
+#: inc/dashboard.php:2752
+msgid ""
+"The amount of beats that can be showed at once should be defined by how "
+"powerful your webhost is, the more powerful the more beats you can show at "
+"once. The recommended value for small and cheap webhosts is 10 or 15, for "
+"powerful and up-to-date webhosts the recommended value is 30."
+msgstr ""
+"La cantidad de beats que pueden ser mostrados a la vez debería ser definida "
+"por lo potente que es tu servidor, cuanto más potente sea más beats debes "
+"poder cargar a la vez. El valor recomendado para servidores pequeños y "
+"baratos es 10 o 15, para servidores potentes y actualizados el valor "
+"recomendado es 30."
+
+#: inc/dashboard.php:2752
+msgid ""
+"This is a heavy task for your webhost so please select a suitable option for "
+"it. If your website is hosted in a small and cheap webhost and you start "
+"receiving more and more visits your website could get down."
+msgstr ""
+"Ésto es una tarea difícil para tu servidor así que selecciona una opción "
+"adecuada para el. Si tu sitio web está alojado en un servidor pequeño y "
+"barato y empiezas a recibir más y más visitas tu página web podría caerse."
+
+#: inc/dashboard.php:2755
+msgid ""
+"The number of beats that will be displayed by default on your beats catalog "
+"page"
+msgstr ""
+"El número de beats que serán mostrados por defecto en tu página del catálogo "
+"de beats"
+
+#: inc/dashboard.php:2756
+msgid ""
+"*This is a heavy task for your web server, recommended value from 10 to 20"
+msgstr ""
+"*Esto es una tarea dura para tu servidor web, el valor recomendado es de 10 "
+"a 20"
+
+#: inc/dashboard.php:2762 inc/dashboard.php:3085
+msgid "Beats Search"
+msgstr "Búsqueda de Beats"
+
+#: inc/dashboard.php:2765 inc/dashboard.php:2771 inc/dashboard.php:3088
+msgid "Display Search Box"
+msgstr "Mostrar Caja de Búsqueda"
+
+#: inc/dashboard.php:2769
+msgid "Display the search box on the top of the catalog"
+msgstr "Muestra la caja de búsqueda justo encima del catálogo completo"
+
+#: inc/dashboard.php:2771
+msgid ""
+"Imagine that you're looking for a concrete beat and you can't find it in the "
+"catalog, it's such a frustrating user and customer experience. That's why "
+"this option is here, to make your visitors and customers able to search "
+"within your beats by tag, genres, names or even titles. It also decrease the "
+"bounce rate so it should be a must."
+msgstr ""
+"Imagina que estás buscando un beat en concreto y que no puedes encontrarlo "
+"en el catálogo, es una experiencia de usuario y de cliente frustrante. Por "
+"eso está ésta opción aquí, para hacer que tus visitantes y clientes puedan "
+"buscar entre tus beats por tag, género, nombre e incluso títulos. También "
+"baja el rebote, así que debería ser obligatorio."
+
+#: inc/dashboard.php:2771
+msgid ""
+"Important: Enabling this option will show the search box in your catalog "
+"page, if you want to show it also in your landing beat pages you have to "
+"enable it too if you want to show it in your"
+msgstr ""
+"Importante: Activar ésta opción mostrará la caja de búsqueda en la página "
+"del catálogo, si quieres mostrarla también en las páginas de beats tienes "
+"que habilitarla también en"
+
+#: inc/dashboard.php:2774 inc/dashboard.php:3093
+msgid ""
+"With this options your visitors will be able to search within your beats by "
+"beat name, artist type, tag, genres..."
+msgstr ""
+"Con ésta opción tus visitantes podrán buscar entre tus beats por nombre, "
+"artista, tag, géneros..."
+
+#: inc/dashboard.php:2780
+msgid "Featured Beats"
+msgstr "Beats Destacados"
+
+#: inc/dashboard.php:2783 inc/dashboard.php:2789
+msgid "Show Featured Beat"
+msgstr "Mostrar Beat Destacado"
+
+#: inc/dashboard.php:2787
+msgid "Show a featured beat on your catalog"
+msgstr "Muestra un beat como destacado en tu catálogo"
+
+#: inc/dashboard.php:2789
+msgid ""
+"By activating this option you can showcase one of your best beats at the top "
+"of your catalog. It's responsive and should work with most themes so feel "
+"free to feature one of your best beats, it's by far the most listened and "
+"viewed one."
+msgstr ""
+"Activando ésta opción puedes mostrar uno de tus mejores beats justo encima "
+"de tu catálogo. Es responsive y debería funcionar con la mayoría de temas "
+"así que siéntete libre de destacar uno de tus mejores beats, es de lejos el "
+"más escuchado y visitado."
+
+#: inc/dashboard.php:2792
+msgid "Show or hide a featured beat at the top of your beats catalog"
+msgstr ""
+"Muestra u oculta un beat destacado justo encima de tu catálogo de beats"
+
+#: inc/dashboard.php:2799
+msgid "Select Featured Beat"
+msgstr "Seleccionar Beat Destacado"
+
+#: inc/dashboard.php:2807
+msgid "The beat that will be featured at the top of your catalog"
+msgstr "El beat que será destacado justo encima de tu catálogo de beats"
+
+#: inc/dashboard.php:2815 inc/dashboard.php:2821
+msgid "Hide Featured Beat Text"
+msgstr "Esconder Texto Destacado"
+
+#: inc/dashboard.php:2819
+msgid "Hide SEO Introduction on your featured beat"
+msgstr "Oculta la Introducción SEO en tu beat destacado"
+
+#: inc/dashboard.php:2821
+msgid ""
+"By activating this option you'll hide the default SEO Introduction text "
+"that's showed by default when you select a featured beat."
+msgstr ""
+"Activando ésta opción esconderás el texto de la Introducción SEO que es "
+"mostrado por defecto cuando seleccionas un beat como destacado."
+
+#: inc/dashboard.php:2824
+msgid "Show or hide a the SEO Introduction text of your featured beat"
+msgstr "Muestra u oculta el texto de la Introducción SEO de tu beat destacado"
+
+#: inc/dashboard.php:2830 inc/dashboard.php:3099
+msgid "Landing Buttons"
+msgstr "Botones"
+
+#: inc/dashboard.php:2837 inc/dashboard.php:3117
+msgid "Show the exclusive rights purchase button"
+msgstr "Muestra el botón de compra de derechos exclusivos"
+
+#: inc/dashboard.php:2839
+msgid ""
+"That's exactly what the title says, a way to show your customers an "
+"exclusive rights purchase button. As we previously told you exclusive rights "
+"purchases are always processed by BeatPress Direct purchase mode, so if you "
+"want you can encrypt the purchase links in the"
+msgstr ""
+"Esto es exactamente lo que dice el título, una forma de mostrar a tus "
+"clientes un botón de compra de derechos exclusivos. Como previamente te "
+"hemos dicho los derechos exclusivos son siempre procesados a través del modo "
+"de venta BeatPress Direct, así que si quieres puedes encriptar los enlaces "
+"de compra en la pestaña de"
+
+#: inc/dashboard.php:2839
+msgid "tab."
+msgstr "."
+
+#: inc/dashboard.php:2839
+msgid ""
+"Important: Enabling this option will show the exclusive rights purchase "
+"button in your catalog page, if you want to show it also in your landing "
+"beat pages you have to enable it too in your"
+msgstr ""
+"Importante: Activar ésta opción mostrará el botón de compra de derechos "
+"exclusivos en la página del catálogo, si quieres mostrarla también en las "
+"páginas de beats tienes que habilitarla también en"
+
+#: inc/dashboard.php:2842 inc/dashboard.php:3118
+msgid ""
+"Show or hide the \"Exclusive Rights\" button to sell beats with the "
+"BeatPress PayPal handler"
+msgstr ""
+"Muestra u oculta el botón de \"Derechos Exclusivos\" para vender los beats "
+"exclusivos a través de PayPal"
+
+#: inc/dashboard.php:2853 inc/dashboard.php:3129
+msgid "Show the Make an Offer button"
+msgstr "Muestra el botón de Haz Una Oferta"
+
+#: inc/dashboard.php:2855
+msgid ""
+"This module is under construction, actually it does redirect to the /contact "
+"URL of your website."
+msgstr ""
+"Éste módulo está bajo construcción, actualmente redirige a la dirección /"
+"contact de tu página web."
+
+#: inc/dashboard.php:2858
+msgid ""
+"Select if you want to show a make an offer button instead of the fixed "
+"exclusive rights price in your beats catalog"
+msgstr ""
+"Selecciona si quieres mostrar el botón de Haz Una Oferta en vez del precio "
+"fijo para los Derechos Exclusivos en tu catálogo de beats"
+
+#: inc/dashboard.php:2864 inc/dashboard.php:3174
+msgid "SEO"
+msgstr "SEO"
+
+#: inc/dashboard.php:2867 inc/dashboard.php:2873 inc/dashboard.php:3177
+#: inc/instrumentals.php:569
+msgid "SEO Introduction"
+msgstr "Introducción SEO"
+
+#: inc/dashboard.php:2871 inc/dashboard.php:3181
+msgid "Display the SEO Introduction added to each beat page"
+msgstr "Muestra la Introducción SEO añadido a cada página de beat"
+
+#: inc/dashboard.php:2873
+msgid ""
+"This option is a must if your beat store is going to be SEO focused, "
+"basically it extracts the SEO Introduction you wrote in each landing beat "
+"page to show it in straight in your catalog. Google will see a lot of "
+"related keywords and names and will start loving it because there's a lot of "
+"content."
+msgstr ""
+"Ésta opción es casi obligatoria si tu tienda de beats va a estar enfocada al "
+"SEO, básicamente extrae la Introducción SEO que escribiste en cada página de "
+"beat para mostrarla directamente en tu catálogo. Google verá un montón de "
+"palabras clave y nombres relacionados y empezará a gustarle porque hay un "
+"montón de contenido."
+
+#: inc/dashboard.php:2876
+msgid ""
+"Show or hide in your catalog the SEO Introduction written in individual beat "
+"pages"
+msgstr ""
+"Muestra u oculta en tu catálogo la Introducción SEO escriba de forma "
+"individual en las páginas de beats"
+
+#: inc/dashboard.php:2876 inc/dashboard.php:3182 inc/dashboard.php:3194
+#: inc/dashboard.php:3207
+msgid "(RECOMMENDED)"
+msgstr "(RECOMENDADO)"
+
+#: inc/dashboard.php:2884 inc/dashboard.php:2890 inc/dashboard.php:2895
+#: inc/dashboard.php:2900
+msgid "404 Errors"
+msgstr "Errores 404"
+
+#: inc/dashboard.php:2888
+msgid "Disable 404 Errors redirection"
+msgstr "Deshabilitar redirección de Errores 404"
+
+#: inc/dashboard.php:2890 inc/dashboard.php:2895 inc/dashboard.php:2900
+msgid ""
+"If you're an experienced website owner you may have been dealing with 404 "
+"errors, and you may know how hardly a bunch of those may negatively impact "
+"your rankings performance."
+msgstr ""
+"Si eres un administrador de páginas web con experiencia probablemente habrás "
+"lidiado con los errores 404, y probablemente sepas como de fuerte un puñado "
+"de éstos podrían impactar en el rendimiento de tus ránkings."
+
+#: inc/dashboard.php:2890
+msgid ""
+"By selecting this option you will keep those 404 errors and you'll need to "
+"fix them manually by making manual redirections."
+msgstr ""
+"Seleccionando ésta opción mantendrás todos esos errores 404 y necesitarás "
+"arreglarlos a mano haciendo redirecciones manuales."
+
+#: inc/dashboard.php:2893
+msgid "Redirect 404 Errors to catalog page"
+msgstr "Redirigir Errores 404 al catálogo"
+
+#: inc/dashboard.php:2895
+msgid ""
+"By selecting this option you will automatically redirect all those 404 "
+"errors to your catalog page, which is probably the best page to get them "
+"redirected to."
+msgstr ""
+"Seleccionando ésta opción redirigirás automáticamente todos esos errores 404 "
+"a tu página del catálogo, la cual es probablemente la mejor página a la que "
+"deben ser redireccionados."
+
+#: inc/dashboard.php:2898
+msgid "Redirect 404 Errors to homepage"
+msgstr "Redirigir Errores 404 al home"
+
+#: inc/dashboard.php:2900
+msgid ""
+"By selecting this option you will automatically redirect all those 404 "
+"errors to your homepage, which is probably the one of the best pages to get "
+"them redirected to, just in case if your catalog page isn't your homepage."
+msgstr ""
+"Seleccionando ésta opción redirigirás automáticamente todos esos errores 404 "
+"al home, la cual es probablemente una de las mejores páginas a las que "
+"deberían ser redireccionados, por si acaso tu página del catálogo no es tu "
+"home."
+
+#: inc/dashboard.php:2903
+msgid ""
+"BeatPress is a SEO focused plugin, that's why we care about the usual "
+"WordPress problems that may affect your SEO performance"
+msgstr ""
+"BeatPress es un plugin enfocado en el SEO, es por eso por lo que nos "
+"preocupamos sobre los típicos problemas de WordPress que podría afectar tu "
+"rendimiento SEO"
+
+#: inc/dashboard.php:2904
+msgid ""
+"A bunch of 404 errors may get your website involved into Google penalties "
+"regarding impressions and positions"
+msgstr ""
+"Un montón de errores 404 podrían conseguir que tu página web termine "
+"recibiendo una penalización de Google en cuanto a impresiones y posiciones"
+
+#: inc/dashboard.php:2905
+msgid ""
+"Use this option to automatically redirect all those \"404 Errors : Not Found"
+"\" to your catalog page or your homepage"
+msgstr ""
+"Usa esta opción para redireccionar todos esos \"Error 404 : No Encontrado\" "
+"a tu catálogo o al home"
+
+#: inc/dashboard.php:2914 inc/dashboard.php:2920
+msgid "External Service Redirection"
+msgstr "Redirección de Servicio Externo"
+
+#: inc/dashboard.php:2918
+msgid ""
+"Enable URL redirection to third party services (such as BeatStars or AirBit)"
+msgstr ""
+"Habilitar redirección de URL a servicios de terceros (como BeatStars o "
+"AirBit)"
+
+#: inc/dashboard.php:2920
+msgid ""
+"We guess you don't have your BeatStars ProPage or Airbit Infinity Store "
+"installed as your main domain because of SEO purposes, but... What if you "
+"can make a ghost page which redirects exactly to your ProPage or Infinity "
+"Store? Something like... https://yourwebsite.com/propage or even https://"
+"yourwebsite.com/store ? It's a great thing for branding and also you can "
+"push it forward by installing a banner in the SEO Paragraph :)"
+msgstr ""
+"Suponemos que no tienes una ProPage de BeatStars o un Infinity Store de "
+"Airbit instalado como tu dominio principal por el SEO, pero... ¿Qué pasaría "
+"si pudieses crear una página fantasma que redirija exactamente a tu ProPage "
+"o Infinity Store? Algo como... https://tupaginaweb.com/propage o incluso "
+"https://tupaginaweb.com/beats ? Es algo bueno de cara a tu marca y también "
+"puedes impulsarlo instalando un banner en el Párrafo SEO :)"
+
+#: inc/dashboard.php:2920
+msgid ""
+"We know everyone shouldn't know about SEO for being able to decently "
+"maintain a great website, but just in case, the redirection is a"
+msgstr ""
+"Sabemos que no todo el mundo debería saber sobre el SEO para ser capaz de "
+"mantener decentemente un sitio web, pero por si acaso, la redirección es una "
+
+#: inc/dashboard.php:2920
+msgid "302 Redirection"
+msgstr "Redirección 302"
+
+#: inc/dashboard.php:2920
+msgid ""
+"that means that it doesn't pass link juice or even authority from your "
+"domain to the BeatStars or Airbit link, there's no need to worry about that "
+"anymore, it's like a "
+msgstr ""
+", lo cual quiere decir que no traspasa link juice o autoridad desde tu "
+"dominio al enlace de BeatStars o Airbit, no hay necesidad de preocuparse más "
+"por eso, es como un "
+
+#: inc/dashboard.php:2920
+msgid "nofollow link"
+msgstr "enlace nofollow"
+
+#: inc/dashboard.php:2923
+msgid ""
+"Useful if you'd like to have an URL pointing and forwarding directly to your "
+"BeatStars / AirBit catalog"
+msgstr ""
+"Útil si te gustaría tener una URL apuntando y redireccionando directamente a "
+"tu catálogo en BeatStars o AirBit"
+
+#: inc/dashboard.php:2930
+msgid "URL to Redirect"
+msgstr "URL a Redirigir"
+
+#: inc/dashboard.php:2936
+msgid "typesomething..."
+msgstr "escribealgo..."
+
+#: inc/dashboard.php:2937
+msgid "This is the URL you're going to forward"
+msgstr "Ésta es la URL que vas a redirigir"
+
+#: inc/dashboard.php:2942
+msgid "Destination URL"
+msgstr "URL de Destino"
+
+#: inc/dashboard.php:2944
+msgid "https://youruser.beatstars.com"
+msgstr "https://tuusuario.beatstars.com"
+
+#: inc/dashboard.php:2945
+msgid "This is where your previous URL will get redirected"
+msgstr "Aquí es donde la URL anterior va a ser redirigida"
+
+#: inc/dashboard.php:2950
+msgid "Redirection Status"
+msgstr "Estado de la Redirección"
+
+#: inc/dashboard.php:2955
+msgid "Redirection Enabled"
+msgstr "Redirección Activada"
+
+#: inc/dashboard.php:2956
+msgid "You're forwarding"
+msgstr "Estás redirigiendo"
+
+#: inc/dashboard.php:2958
+msgid "Redirection Disabled"
+msgstr "Redirección Desactivada"
+
+#: inc/dashboard.php:2959
+msgid "Redirection and URL forwarding to external service is disabled"
+msgstr "La redirección y reenvío de URL a servicios externos está desactivada"
+
+#: inc/dashboard.php:2971
+msgid "Very Important"
+msgstr "Muy Importante"
+
+#: inc/dashboard.php:2973
+msgid ""
+"This redirection is performed using a \"302 Moved Temporarily\" redirection. "
+"That means that it will not pass PageRank or"
+msgstr ""
+"Ésta redirección se hace utilizando una redirección \"302 Movido "
+"Temporalmente\". Esto significa que no pasará PageRank o"
+
+#: inc/dashboard.php:2973
+msgid ""
+"link juice from your domain to the BeatStars / AirBit domain (which is "
+"pretty similar to a rel=\"nofollow\" link)"
+msgstr ""
+"autoridad desde tu dominio al dominio de BeatStars / Airbit (lo cual es muy "
+"similar a un enlace rel=\"nofollow\")"
+
+#: inc/dashboard.php:2974
+msgid ""
+"That's useful if you're using BeatPress only for SEO purposes as a secondary "
+"beat shop and BeatStars or AirBit"
+msgstr ""
+"Ésto es útil si estás utilizando BeatPress sólo con propósitos de SEO como "
+"una tienda de beats secundaria y BeatStars o AirBit"
+
+#: inc/dashboard.php:2974
+msgid ""
+"as your main one because everyone knows how it works and the conversion "
+"ratio to sales is higher"
+msgstr ""
+"como la principal porque todo el mundo sabe como funciona y la tasa de "
+"conversion a ventas es más alta"
+
+#: inc/dashboard.php:2975
+msgid ""
+"By using this option, if your external service (BeatStars or AirBit) goes "
+"down, got hacked, or suddenly stops"
+msgstr ""
+"Utilizando ésta opción, si tu servicio externo (BeatStars o AirBit) se cae, "
+"es hackeado, o deja de funcionar"
+
+#: inc/dashboard.php:2975
+msgid ""
+"working you'll be able to temporarily redirect all your traffic to your "
+"BeatPress website and at least keep some beat sales"
+msgstr ""
+"de repente podrás temporalmente redirigir todo tu tráfico a tu página "
+"funcionando con BeatPress y al menos conseguir algunas ventas"
+
+#: inc/dashboard.php:2976
+msgid ""
+"The counterpart is; if your website (your BeatPress one) goes down, got "
+"hacked, or suddenly stops working, you'll"
+msgstr ""
+"La mala noticia es; si tu sitio web (el que funciona con BeatPress) se cae, "
+"es hackeado, o deja de funcionar de repente, necesitarás"
+
+#: inc/dashboard.php:2976
+msgid ""
+"need to know how to make it work again in order to get that redirection "
+"working again, so, if you don't know how"
+msgstr ""
+"saber como hacer que vuelva a funcionar de nuevo para poder tener ésta "
+"redirección funcionando de nuevo, así que, si no sabes como"
+
+#: inc/dashboard.php:2976
+msgid ""
+"to protect / manage your website (this website) you better keep this option "
+"deactivated"
+msgstr ""
+"proteger / administrar tu sitio web (éste sitio web) mejor deja ésta opción "
+"desactivada"
+
+#: inc/dashboard.php:2977
+msgid "If you don't know what does this mean keep this option deactivated"
+msgstr "Si no sabes lo que ésto significa mejor deja ésta opción desactivada"
+
+#: inc/dashboard.php:2987 inc/instrumentals.php:192
+msgid "Genres"
+msgstr "Géneros"
+
+#: inc/dashboard.php:2990 inc/dashboard.php:2996
+msgid "Display Type Beat Box"
+msgstr "Mostrar Type Beats"
+
+#: inc/dashboard.php:2994
+msgid "Display the artist type beat box of each beat"
+msgstr "Muestra la caja de type beat de cada beat"
+
+#: inc/dashboard.php:2996
+msgid ""
+"By activating this option you can make your catalog show a Type Beat box "
+"before the different genre boxes that are showed up close to the title."
+msgstr ""
+"Activando ésta opción puedes hacer que tu catálogo muestre una caja de Type "
+"Beat justo antes de las diferentes cajas de géneros que son mostradas cerca "
+"del título."
+
+#: inc/dashboard.php:2999
+msgid "Show or hide the artist type beat box of each beat in the beats catalog"
+msgstr ""
+"Muestra u oculta la caja del tipo de artista o type beat de cada beat en tu "
+"catálogo"
+
+#: inc/dashboard.php:3006 inc/dashboard.php:3012
+msgid "Display Genres Boxes"
+msgstr "Mostrar Géneros"
+
+#: inc/dashboard.php:3010
+msgid "Display the genres of each beat"
+msgstr "Muestra los géneros de cada beat"
+
+#: inc/dashboard.php:3012
+msgid ""
+"By activating this option you can make your catalog show genres boxes after "
+"the Type Beat box that is showed up close to the title."
+msgstr ""
+"Activando ésta opción puedes hacer que tu catálogo muestre las cajas de "
+"géneros después de la caja de Type Beat que es mostrada justo cerca del "
+"título."
+
+#: inc/dashboard.php:3015 inc/dashboard.php:3031
+msgid "Show or hide the genres of each beat in the beats catalog"
+msgstr "Muestra u oculta los géneros de cada beat en el catálogo de beats"
+
+#: inc/dashboard.php:3022 inc/dashboard.php:3028
+msgid "Browse Beats by Genre"
+msgstr "Navega entre Beats por Géneros"
+
+#: inc/dashboard.php:3026
+msgid "List all available genres at the catalog bottom"
+msgstr "Muestra todos los géneros disponibles justo debajo del catálogo"
+
+#: inc/dashboard.php:3028
+msgid ""
+"By activating this option you can list all your available genres at the "
+"bottom of your catalog, showing a beats count and the genre category."
+msgstr ""
+"Activando ésta opción puedes mostrar todos los géneros disponibles justo al "
+"final de tu catálogo, mostrando un contador de beats y el nombre del género."
+
+#: inc/dashboard.php:3039 inc/dashboard.php:3045
+msgid "Do Not List All Genres"
+msgstr "No Mostrar Todos los Géneros"
+
+#: inc/dashboard.php:3043
+msgid "Show only genres containing more than 5 beats inside"
+msgstr "Mostrar sólo los géneros que tienen más de 5 beats dentro"
+
+#: inc/dashboard.php:3045
+msgid ""
+"I'm sure it have happened to you at least once, we visit a website looking "
+"for something, we click somewhere and boom, just one post which desn't have "
+"what we were looking for."
+msgstr ""
+"Estoy seguro de que te ha pasado alguna vez antes, visitamos una web "
+"buscando algo, hacemos clic en algún sitio y boom, sólo un post que además "
+"no tiene lo que estamos buscando."
+
+#: inc/dashboard.php:3045
+msgid ""
+"Then we close the tab and go back to Google to keep searching, by activating "
+"this option you'll show only the genres that contains at leats 5 beats "
+"inside."
+msgstr ""
+"Entonces cerramos la pestaña y volvemos a Google para seguir buscando, "
+"activando ésta opción mostrarás sólo los géneros que contienen al menos 5 "
+"beats dentro."
+
+#: inc/dashboard.php:3048
+msgid ""
+"Pages with thin content are used to be useless for visitors and increase "
+"bounce rate"
+msgstr ""
+"Las páginas con thin content o poco contenido suelen ser inútiles de cara al "
+"usuario e incrementan el rebote"
+
+#: inc/dashboard.php:3092
+msgid "Display the search box on the top of your beat pages"
+msgstr "Muestra la caja de búsqueda arriba en las páginas de beats"
+
+#: inc/dashboard.php:3101
+msgid "Listen more beats"
+msgstr "Escucha más beats"
+
+#: inc/dashboard.php:3105
+msgid "Add a link to your complete catalog"
+msgstr "Añade un enlace a tu catálogo completo"
+
+#: inc/dashboard.php:3106
+msgid ""
+"Show or hide the \"Listen More Beats\" button linking to your full beats "
+"catalog"
+msgstr ""
+"Muestra u oculta el botón de \"Escuchar Más Beats\" enlazando a tu catálogo "
+"completo"
+
+#: inc/dashboard.php:3130
+msgid ""
+"Select if you want to show a make an offer button instead of the fixed "
+"exclusive rights price in beat pages"
+msgstr ""
+"Selecciona si quieres mostrar el botón de Haz Una Oferta en vez del precio "
+"fijo para los Derechos Exclusivos en las páginas de beats"
+
+#: inc/dashboard.php:3136 inc/dashboard.php:3139
+msgid "Free Downloads"
+msgstr "Descargas Gratuitas"
+
+#: inc/dashboard.php:3143
+msgid "Display the free download section"
+msgstr "Mostrar la sección de descargas gratuitas"
+
+#: inc/dashboard.php:3144
+msgid "Show or hide the download section in individual beat pages"
+msgstr ""
+"Muestra u oculta la sección de descargas en las páginas de beats individuales"
+
+#: inc/dashboard.php:3151
+msgid "Social Locker"
+msgstr "Social Locker"
+
+#: inc/dashboard.php:3155
+msgid "Use Social Locker plugin to offer free downloads"
+msgstr "Utilizar el plugin Social Locker para ofrecer descargas gratuitas"
+
+#: inc/dashboard.php:3156
+msgid ""
+"Make the users perform a social action to get the free downloads in "
+"individual beat pages, useless if the Free Downloads option is not activated"
+msgstr ""
+"Haz que los usuarios necesiten realizar una acción social para conseguir las "
+"descargas gratuitas en las páginas de beats, inútil si la opción de "
+"Descargas Gratuitas está desactivada"
+
+#: inc/dashboard.php:3163
+msgid "Downloads Disclaimer"
+msgstr "Aviso de Descargas"
+
+#: inc/dashboard.php:3167
+msgid "Show \"Free Downloads\" disclaimer"
+msgstr "Mostrar aviso de \"Descargas Gratuitas\""
+
+#: inc/dashboard.php:3168
+msgid ""
+"Let your visitors know that beats marked as \"FREE\" are not free beats, "
+"they're just Free Downloads and need to get a lease to get rights to the beat"
+msgstr ""
+"Haz saber a tus visitantes que los beats marcados como \"LIBRE\" no son "
+"beats de uso libre, simplemente son descargas gratuitas y necesitan un "
+"leasing para conseguir derechos sobre el beat"
+
+#: inc/dashboard.php:3182
+msgid "Show or hide the SEO Introduction written in individual beat pages"
+msgstr ""
+"Muestra u oculta en tu catálogo la Introducción SEO escriba en las páginas "
+"de beats"
+
+#: inc/dashboard.php:3189
+msgid "Genres in SEO Introduction"
+msgstr "Géneros en la Introducción SEO"
+
+#: inc/dashboard.php:3193
+msgid "Add the genres of each beat to the SEO Introduction (H2 Heading)"
+msgstr "Añade los géneros de cada beat en la Introducción SEO (Título H2)"
+
+#: inc/dashboard.php:3194
+msgid ""
+"Show or hide the list of genres in the SEO Introduction of each beat page"
+msgstr ""
+"Muestra u oculta la lista de géneros en la Introducción SEO de cada página "
+"de beat"
+
+#: inc/dashboard.php:3195
+msgid ""
+"The SEO Introduction module is an H2, one of the off-page SEO most important "
+"headings known"
+msgstr ""
+"El módulo de Introducción SEO es un párrafo H2, uno de los párrafos más "
+"importantes conocidos para el SEO off-page"
+
+#: inc/dashboard.php:3202
+msgid "SEO Paragraphs"
+msgstr "Párrafos SEO"
+
+#: inc/dashboard.php:3206
+msgid "Display the SEO Paragraphs added to each beat page"
+msgstr "Muestra los Párrafos SEO añadidos a cada página de beat"
+
+#: inc/dashboard.php:3207
+msgid "Show or hide the SEO Paragraphs written in individual beat pages"
+msgstr ""
+"Muestra u oculta los Párrafos SEO escritos individualmente en las páginas de "
+"beats"
+
+#: inc/dashboard.php:3213
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/dashboard.php:3216
+msgid "Enable Beat Tags"
+msgstr "Activar Tags"
+
+#: inc/dashboard.php:3220
+msgid "Enable Beat Tags taxonomy"
+msgstr "Activar la Taxonomía Tags"
+
+#: inc/dashboard.php:3221
+msgid ""
+"Enabling them will be good to increase user interaction with your individual "
+"beat pages, showing Google that users are interested in your content"
+msgstr ""
+"Activarlos será bueno para incrementar la interacción del usuario en las "
+"páginas de beats, mostrándole a Google que los usuarios están interesados en "
+"tu contenido"
+
+#: inc/dashboard.php:3222
+msgid ""
+"Also, it will also distribute your PageRank within your beat-tag pages, "
+"which could end up in ranking penalties"
+msgstr ""
+"También, distribuirá tu PageRank entre las páginas de Tags creadas, lo que "
+"podría conllevar a penalizaciones en rankings"
+
+#: inc/dashboard.php:3223
+msgid "If you don't know what I'm talking about just keep this option disabled"
+msgstr "Si no sabes de que estoy hablando mejor deja ésta opción desactivada"
+
+#: inc/dashboard.php:3230
+msgid "Display Beat Tags"
+msgstr "Mostrar Tags"
+
+#: inc/dashboard.php:3234
+msgid "Display the Beat Tags added to each beat page"
+msgstr "Muestra los Tags añadidos a cada Página de Beat"
+
+#: inc/dashboard.php:3235
+msgid "Show or hide the Beat Tags you entered in individual beat pages"
+msgstr ""
+"Muestra u oculta los Tags que has introducido individualmente en las Páginas "
+"de Beats"
+
+#: inc/dashboard.php:3236 inc/dashboard.php:3249
+msgid "*IMPORTANT:"
+msgstr "*IMPORTANTE:"
+
+#: inc/dashboard.php:3236 inc/dashboard.php:3249
+msgid "This option is useless if the option \"Enable Beat Tags\" is disabled"
+msgstr "Ésta opción es inútil si la opción \"Activar Tags\" está desactivada"
+
+#: inc/dashboard.php:3243
+msgid "Clickable Beat Tags"
+msgstr "Tags Clicables"
+
+#: inc/dashboard.php:3247
+msgid "Make the beat tags clickable"
+msgstr "Hacer los Tags clicables"
+
+#: inc/dashboard.php:3248
+msgid ""
+"Auto-generate an hyperlink to each beat tag to make your visitors able to "
+"navigate through the beat tags in individual beat pages"
+msgstr ""
+"Genera de forma automática un enlace a cada Tag para hacer que tus "
+"visitantes puedan navegar a través de las páginas generadas de Tags"
+
+#: inc/dashboard.php:3255
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/dashboard.php:3258
+msgid "YouTube Embed"
+msgstr "Incrustar YouTube"
+
+#: inc/dashboard.php:3262
+msgid "Automatically embed the YouTube Video in beat pages"
+msgstr "Incrusta automáticamente el vídeo de YouTube en las páginas de beats"
+
+#: inc/dashboard.php:3263
+msgid ""
+"This may help your video to reach higher positions in the YouTube Search "
+"results"
+msgstr ""
+"Esto podría ayudar a tu video a alcanzar posiciones más altas en los "
+"resultados de búsqueda de YouTube"
+
+#: inc/dashboard.php:3272
+msgid "YouTube Backlink"
+msgstr "Enlace a YouTube"
+
+#: inc/dashboard.php:3276
+msgid "Automatically add a text backlink to your video"
+msgstr "Añade automáticamente un enlace de texto a tu vídeo"
+
+#: inc/dashboard.php:3277
+msgid ""
+"This may help your video to reach higher positions in the Google and YouTube "
+"search results, but it's useless if the embed option is not activated"
+msgstr ""
+"Esto podría ayudar a tu video a alcanzar posiciones más altas en los "
+"resultados de búsqueda de Google y YouTube, pero es inútil si la opción "
+"Incrustar YouTube está desactivada"
+
+#: inc/dashboard.php:3283
+msgid "Ratings"
+msgstr "Valoraciones"
+
+#: inc/dashboard.php:3286
+msgid "Beat Ratings"
+msgstr "Valoraciones de Beats"
+
+#: inc/dashboard.php:3290
+msgid "Show public beat ratings"
+msgstr "Mostrar Valoraciones públicas de Beats"
+
+#: inc/dashboard.php:3291
+msgid "Enable public ratings for every beat uploaded in individual beat pages"
+msgstr ""
+"Habilitar valoraciones públicas de beats para cada beat en las páginas de "
+"beats"
+
+#: inc/dashboard.php:3292
+msgid "Plugin EC Stars Ratings must be installed"
+msgstr "El plugin EC Stars Ratings debe estar instalado"
+
+#: inc/dashboard.php:3292
+msgid "click here to download"
+msgstr "haz clic aquí para descargar"
+
+#: inc/dashboard.php:3298
+msgid "Comments"
+msgstr "Comentarios"
+
+#: inc/dashboard.php:3301
+msgid "Enable Disqus Comments"
+msgstr "Habilitar Comentarios de Disqus"
+
+#: inc/dashboard.php:3305
+msgid "Check this option to enable Disqus comments on individual beat pages"
+msgstr ""
+"Activa esta opción para habilitar los comentarios de Disqus en las páginas "
+"de beats"
+
+#: inc/dashboard.php:3306
+msgid ""
+"Engagement in websites is key for SEO nowadays, enable this option and paste "
+"the Disqus code below to active Disqus on your individual beat-pages"
+msgstr ""
+"La interacción en sitios web es clave para el SEO hoy en día, activa esta "
+"opción y pega el código de Disqus debajo para activar Disqus en las páginas "
+"de beats"
+
+#: inc/dashboard.php:3307
+msgid ""
+"First you have to create a \"Disqus Account\" in order to show the comments "
+"section"
+msgstr ""
+"Primero necesitas crearte una cuenta en Disqus para poder mostrar la sección "
+"de comentarios"
+
+#: inc/dashboard.php:3307
+msgid "click here to register"
+msgstr "haz clic aquí para registrarte"
+
+#: inc/dashboard.php:3314
+msgid "Disqus HTML Code"
+msgstr "Código HTML de Disqus"
+
+#: inc/dashboard.php:3318
+msgid "Type here your Disqus code..."
+msgstr "Escribe aquí tu código de Disqus..."
+
+#: inc/dashboard.php:3319
+msgid "Type here the JavaScript code that Disqus provided you"
+msgstr "Escribe aquí el código JavaScript que te ha mostrado Disqus"
+
+#: inc/dashboard.php:3320
+msgid "It will be showed in ALL your beat pages"
+msgstr "Será mostrado en TODAS tus páginas de beats"
+
+#: inc/dashboard.php:3327
+msgid "Theming"
+msgstr "Personalizar Theme"
+
+#: inc/dashboard.php:3330
+msgid "Next > Previous"
+msgstr "Siguiente > Anterior"
+
+#: inc/dashboard.php:3334
+msgid ""
+"Add a \"Previous beat\" and \"Next beat\" at the top and bottom of each beat "
+"page"
+msgstr ""
+"Añade un enlace como \"Beat anterior\" y \"Siguiente beat\" arriba y abajo "
+"del todo de cada página de beat"
+
+#: inc/dashboard.php:3335
+msgid ""
+"Useful if your WordPress theme doesn't contains a previous / next button by "
+"default"
+msgstr ""
+"Útil si tu theme de WordPress no trae de serie un botón de anterior / "
+"siguiente por defecto"
+
+#: inc/dashboard.php:3394 inc/dashboard.php:3396
+msgid "BeatPress Documentation"
+msgstr "Documentación de BeatPress"
+
+#: inc/instrumentals.php:131
+msgctxt "Post Type General Name"
+msgid "Instrumentals"
+msgstr "Instrumentales"
+
+#: inc/instrumentals.php:132
+msgctxt "Post Type Singular Name"
+msgid "Instrumental"
+msgstr "Instrumental"
+
+#: inc/instrumentals.php:134
+msgid "Parent Instrumental"
+msgstr "Instrumental Padre"
+
+#: inc/instrumentals.php:135
+msgid "All Instrumentals"
+msgstr "Todas las Instrumentales"
+
+#: inc/instrumentals.php:136
+msgid "View Instrumental"
+msgstr "Ver Instrumental"
+
+#: inc/instrumentals.php:137
+msgid "Add New Instrumental"
+msgstr "Añadir Nueva Instrumental"
+
+#: inc/instrumentals.php:138
+msgid "Add New"
+msgstr "Añadir Nueva"
+
+#: inc/instrumentals.php:139
+msgid "Edit Instrumental"
+msgstr "Editar Instrumental"
+
+#: inc/instrumentals.php:140
+msgid "Update Instrumental"
+msgstr "Actualizar Instrumental"
+
+#: inc/instrumentals.php:142
+msgid "Search Instrumental"
+msgstr "Buscar Instrumental"
+
+#: inc/instrumentals.php:143
+msgid "Not Found"
+msgstr "No Encontrado"
+
+#: inc/instrumentals.php:144
+msgid "Not found in Trash"
+msgstr "No encontrado en la Papelera"
+
+#: inc/instrumentals.php:148
+msgid "instrumentals"
+msgstr "instrumentales"
+
+#: inc/instrumentals.php:149
+msgid "Your beats and instrumental are here"
+msgstr "Tus beats e instrumentales están aquí"
+
+#: inc/instrumentals.php:193
+msgid "Add New Genre"
+msgstr "Añadir Nuevo Género"
+
+#: inc/instrumentals.php:194
+msgid "New Genre"
+msgstr "Nuevo Género"
+
+#: inc/instrumentals.php:195
+msgid "Edit Genre"
+msgstr "Editar Género"
+
+#: inc/instrumentals.php:196
+msgid "Update Genre"
+msgstr "Actualizar Género"
+
+#: inc/instrumentals.php:215
+msgid "Beat Tags"
+msgstr "Tags"
+
+#: inc/instrumentals.php:216
+msgid "Add New Beat Tag"
+msgstr "Añadir Nuevo Tag"
+
+#: inc/instrumentals.php:217
+msgid "New Beat Tag"
+msgstr "Nuevo Tag"
+
+#: inc/instrumentals.php:328
+msgid "Artwork"
+msgstr "Diseño"
+
+#: inc/instrumentals.php:329
+msgid "Views"
+msgstr "Visitas"
+
+#: inc/instrumentals.php:330 inc/instrumentals.php:489
+msgid "External Link"
+msgstr "Enlace Externo"
+
+#: inc/instrumentals.php:345
+msgid "No artwork set"
+msgstr "Sin Diseño"
+
+#: inc/instrumentals.php:368
+msgid "No External Link"
+msgstr "Sin Enlace Externo"
+
+#: inc/instrumentals.php:423
+msgid "BeatPress Page Generator"
+msgstr "Generador de Páginas de BeatPress"
+
+#: inc/instrumentals.php:438
+msgid "Select MP3 File"
+msgstr "Selecciona Archivo MP3"
+
+#: inc/instrumentals.php:438
+msgid "Upload the tagged MP3 file of your beat - 128kbps Recommended"
+msgstr "Sube el MP3 con tags o anticopy de tu beat - Recomendado 128kbps"
+
+#: inc/instrumentals.php:445
+msgid "Your browser does not support the audio elements"
+msgstr "Tu navegador no soporta elementos de sonido"
+
+#: inc/instrumentals.php:450
+msgid "Upload beat"
+msgstr "Subir beat"
+
+#: inc/instrumentals.php:483
+msgid "Beat Title"
+msgstr "Título del Beat"
+
+#: inc/instrumentals.php:484
+msgid "Title of your beat"
+msgstr "Título de tu beat"
+
+#: inc/instrumentals.php:485
+msgid "*The title of your beat, it will be used along the whole page"
+msgstr "*El título de tu beat, será utilizado a lo largo de toda la página"
+
+#: inc/instrumentals.php:491
+msgid ""
+"*Link to the external website where you also published this beat (Ex: "
+"BeatStars / AirBit)"
+msgstr ""
+"*Enlace al sitio web externo donde también has publicado este beat (Ejemplo: "
+"BeatStars / AirBit)"
+
+#: inc/instrumentals.php:492 inc/instrumentals.php:499
+msgid "Used only with"
+msgstr "Usado solo con"
+
+#: inc/instrumentals.php:492
+msgid "External Purchase Mode"
+msgstr "Modo de Venta Externo"
+
+#: inc/instrumentals.php:496
+msgid "EDD Identifier"
+msgstr "Identificador de EDD"
+
+#: inc/instrumentals.php:498
+msgid ""
+"*Type here the Easy Digital Downloads Product ID to link this beat page to "
+"the product page."
+msgstr ""
+"*Escribe aquí el Identificador de Producto de Easy Digital Downloads para "
+"enlazar la página de éste beat con la página del producto."
+
+#: inc/instrumentals.php:499
+msgid "Easy Digital Downloads Purchase Mode"
+msgstr "Modo de Venta Easy Digital Downloads"
+
+#: inc/instrumentals.php:503
+msgid "Sounds Like & Type Beat"
+msgstr "Suena Como / Type Beat"
+
+#: inc/instrumentals.php:504
+msgid "Offset X Quavo"
+msgstr "Residente X Bad Bunny"
+
+#: inc/instrumentals.php:505
+msgid ""
+"*Type here the artist that sounds like this beat. Leave blank to avoid Type "
+"Beat references."
+msgstr ""
+"*Escribe aquí el artista que suena como este beat. Déjalo en blanco para "
+"evitar cualquier referencia hacia los Type Beats."
+
+#: inc/instrumentals.php:509
+msgid "MP3 Lease Price"
+msgstr "Precio del Leasing MP3"
+
+#: inc/instrumentals.php:511 inc/instrumentals.php:517
+#: inc/instrumentals.php:523 inc/instrumentals.php:529
+msgid "*Price that will be showed in the purchase buttons."
+msgstr "*Precio que será mostrado en los botones de compra."
+
+#: inc/instrumentals.php:515
+msgid "WAV Lease Price"
+msgstr "Precio del Leasing WAV"
+
+#: inc/instrumentals.php:521
+msgid "Premium Lease Price"
+msgstr "Precio del Leasing Premium"
+
+#: inc/instrumentals.php:527
+msgid "Unlimited Lease Price"
+msgstr "Precio del Leasing Ilimitado"
+
+#: inc/instrumentals.php:533
+msgid "Exclusive Rights Price"
+msgstr "Precio de los Derechos Exclusivos"
+
+#: inc/instrumentals.php:535
+msgid ""
+"*Price that will be showed in the exclusive rights purchase button, a "
+"purchase link will be automatically generated by BeatPress."
+msgstr ""
+"*Precio que será mostrado en los botones de compra de Derechos Exclusivos, "
+"un enlace de compra será generado automáticamente por BeatPress."
+
+#: inc/instrumentals.php:539
+msgid "Exclusively Sold?"
+msgstr "¿Vendido de forma Exclusiva?"
+
+#: inc/instrumentals.php:543
+msgid "No, I still got the full rights to the beat"
+msgstr "No, todavía tengo los derechos del beat"
+
+#: inc/instrumentals.php:546
+msgid "Yes, it has been sold"
+msgstr "Sí, ha sido vendido"
+
+#: inc/instrumentals.php:547
+msgid ""
+"*Select \"Yes\" if the beat has been exclusively sold to remove any download "
+"or purchase option. Leave blank or click \"No\" to mark it as available."
+msgstr ""
+"*Selecciona \"Si\" si el beat ha sido vendido de forma exclusiva para "
+"eliminar cualquier opción de compra o descarga. Déjalo en blanco o haz click "
+"en \"No\" para marcarlo como disponible."
+
+#: inc/instrumentals.php:551
+msgid "Similar Beat Title"
+msgstr "Título de Beat Similar"
+
+#: inc/instrumentals.php:553
+msgid ""
+"*Once a beat has been exclusively sold there's a way to redirect your "
+"visitors to a similar beat, type here the title of that similar beat you'd "
+"like to send your visitors to or leave blank to remove similar beat "
+"references."
+msgstr ""
+"*Una vez que un beat ha sido vendido de forma exclusiva hay una forma de "
+"redireccionar a los usuarios a un beat similar, escribe aquí el título del "
+"beat similar a donde te gustaría enviar a tus usuarios o déjalo en blanco "
+"para eliminar cualquier referencia a beats similares."
+
+#: inc/instrumentals.php:557
+msgid "Similar Beat URL"
+msgstr "Enlace de Beat Similar"
+
+#: inc/instrumentals.php:559
+msgid "*The URL of the similar beat that your visitors will be able to click."
+msgstr "*El enlace del beat similar donde los ususarios podrán hacer clic."
+
+#: inc/instrumentals.php:563
+msgid "YouTube Video ID"
+msgstr "Identificador de Video de YouTube"
+
+#: inc/instrumentals.php:565
+msgid ""
+"*Type here the YouTube Video ID of that beat if you would like to "
+"automatically embed the video on this page. Leave blank to remove YouTube "
+"embeds."
+msgstr ""
+"*Escribe aquí el Identificador de Vídeo de YouTube de este beat si te "
+"gustaría añadir el vídeo a ésta página de beat. Déjalo en blanco para no "
+"añadir ningún video de YouTube."
+
+#: inc/instrumentals.php:570
+msgid ""
+"Write here a brief introduction for that beat, it can be used as the Meta "
+"Description so keep it short. Recommended 160 characters maximum."
+msgstr ""
+"Escribe aquí una breve introducción para este beat, puede ser utilizado como "
+"meta descripción así que no lo alargues mucho. Lo máximo recomendado son 160 "
+"caracteres."
+
+#: inc/instrumentals.php:571
+msgid ""
+"*Type here the introduction / excerpt of this beat page. Recommended 160 "
+"characters."
+msgstr ""
+"*Escribe aquí la introducción / extracto de la página de éste beat. "
+"Recomendado 160 caracteres."
+
+#: inc/instrumentals.php:576
+msgid ""
+"Here you can write longer stuff about this beat, you should target multiple "
+"and related keywords. I encourage you to make a small keyword research to "
+"keep it overperforming."
+msgstr ""
+"Aquí puedes escribir algo más largo sobre éste beat, deberías atacar "
+"diferentes keywords relacionadas. Te recomiendo que hagas una pequeña "
+"investigación para que tenga buen rendimiento."
+
+#: inc/instrumentals.php:577 inc/instrumentals.php:583
+#: inc/instrumentals.php:589
+msgid ""
+"*This is a SEO Paragraph that will be added to the beat page. Leave them all "
+"blank (1, 2 and 3) to remove any paragraph text. Recommended 200 words per "
+"paragraph. This paragraph is HTML ready."
+msgstr ""
+"*Ésto es un Párrafo SEO que será añadido a la página del beat. Déjalos todos "
+"en blanco (1, 2 y 3) para eliminar cualquier Párrafo SEO. Recomendado 200 "
+"palabras por párrafo. Éste párrafo está listo para funcionar con código HTML."
+
+#: inc/instrumentals.php:581
+msgid "SEO Paragraph 2"
+msgstr "Párrafo SEO 2"
+
+#: inc/instrumentals.php:582
+msgid ""
+"You can write more here! Remember, those paragraphs are HTML ready, but your "
+"visitors want to listen to your beats, not read about them..."
+msgstr ""
+"¡Aquí puedes escribir más! Recuerda, éstos párrafos éstan listos para "
+"funcionar con HTML, pero tus visitantes quieren escuchar tus beats, no leer "
+"sobre ellos..."
+
+#: inc/instrumentals.php:587
+msgid "SEO Paragraph 3"
+msgstr "Párrafo SEO 3"
+
+#: inc/instrumentals.php:588
+msgid "So don't write a book for each beat and keep this human readable."
+msgstr ""
+"Así que no escribas un libro para cada beat y mantenlo de forma que "
+"cualquier humano lo pueda leer."
+
+#: inc/instrumentals.php:739
+msgid "Listen"
+msgstr "Escucha"
+
+#: inc/instrumentals.php:739
+msgid "Instrumental"
+msgstr "Instrumental"
+
+#: inc/jplayer.php:86
+msgid "Update Required"
+msgstr "Actualización Necesaria"
+
+#: inc/jplayer.php:86
+msgid ""
+"To play the media you will need to either update your browser to a recent "
+"version or update your Flash plugin."
+msgstr ""
+"Para reproducir el archivo de sonido necesitarás o actualizar tu navegador a "
+"una versión más reciente o actualizar tu plugin Flash."
+
+#: inc/mp3server.php:26 inc/mp3server.php:56
+msgid "BeatPress Audio Streaming Server"
+msgstr "Servidor de Reproducción de Sonido de BeatPress"
+
+#: inc/mp3server.php:63
+msgid "You can't view this page"
+msgstr "No puedes ver ésta página"
+
+#: inc/mp3server.php:63
+msgid "Streaming links are encrypted by default"
+msgstr "Los enlaces de reproducción están encriptados por defecto"
+
+#: inc/payment_gateway.php:32 inc/payment_gateway.php:67
+#: inc/payment_gateway.php:101
+msgid "BeatPress Direct ERROR"
+msgstr "ERROR de BeatPress Direct"
+
+#: inc/payment_gateway.php:40
+msgid "ERROR: Missing PayPal Email Address"
+msgstr "ERROR: Falta la dirección de correo de PayPal"
+
+#: inc/payment_gateway.php:40
+msgid ""
+"In order to receive payments first you have to save your PayPal email address"
+msgstr ""
+"Para recibir pagos primeros tienes que guardar tu dirección de correo de "
+"PayPal"
+
+#: inc/payment_gateway.php:75 inc/payment_gateway.php:109
+msgid "ERROR: Not valid link"
+msgstr "ERROR: Enlace no válido"
+
+#: inc/payment_gateway.php:75
+msgid "You can't use encrypted purchase links if the option is not enabled"
+msgstr ""
+"No puedes utilizar enlaces de compra encriptados si la opción no está "
+"activada"
+
+#: inc/payment_gateway.php:109
+msgid "You can't use clean purchase links because they're encrypted"
+msgstr ""
+"No puedes utilizar enlaces de compra sin encriptar porque están encriptados"
+
+#: inc/payment_gateway.php:150
+msgid "by"
+msgstr "por"
+
+#: inc/payment_gateway.php:172
+msgid "Processing, please wait..."
+msgstr "Procesando, espere por favor..."
+
+#: inc/toolbox.php:5
+msgid "BeatPress Tools"
+msgstr "Herramientas de BeatPress"
+
+#: inc/toolbox.php:16
+msgid "Fetch Preview"
+msgstr "Vista Previa"
+
+#: inc/toolbox.php:16
+msgid "Check Google Preview"
+msgstr "Vista Previa en Google"
+
+#: inc/toolbox.php:17
+msgid "Search Result"
+msgstr "Resultados de Búsqueda"
+
+#: inc/toolbox.php:17
+msgid "Check Indexation"
+msgstr "Verificar Indexación"
+
+#: inc/toolbox.php:18
+msgid "PageSpeed Insights"
+msgstr "PageSpeed Insights"
+
+#: inc/toolbox.php:18
+msgid "Post Speed"
+msgstr "Verificar Velocidad"
+
+#: inc/toolbox.php:19
+msgid "TotalPing"
+msgstr "TotalPing"
+
+#: inc/toolbox.php:19 inc/toolbox.php:20
+msgid "Ping Tool"
+msgstr "Herramienta de Ping"
+
+#: inc/toolbox.php:20
+msgid "PingoMatic"
+msgstr "PingoMatic"
+
+#: inc/toolbox.php:21
+msgid "CopyScape"
+msgstr "CopyScape"
+
+#: inc/toolbox.php:21
+msgid "Check Plagiarism"
+msgstr "Chequear Plagios"
+
+#: inc/toolbox.php:22
+msgid "SEOptimer"
+msgstr "SEOptimer"
+
+#: inc/toolbox.php:22
+msgid "Domain SEO Audit"
+msgstr "Auditoría SEO del dominio"
+
+#: inc/toolbox.php:23
+msgid "Snapito"
+msgstr "Snapito"
+
+#: inc/toolbox.php:23
+msgid "Get Screenshot"
+msgstr "Imagen de la página"
+
+#: inc/toolbox.php:24
+msgid "*Use these previous tools only when you post new content"
+msgstr ""
+"*Utiliza las herramientas anteriores sólo cuando posteas contenido nuevo"
+
+#~ msgid "Beats & Instrumentals"
+#~ msgstr "Beats e Instrumentales"
+
+#~ msgid "Previous"
+#~ msgstr "Anterior"
