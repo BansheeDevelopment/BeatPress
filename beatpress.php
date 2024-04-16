@@ -41,7 +41,7 @@ include( plugin_dir_path( __FILE__ ) . '/inc/jplayer.php');
 
 
 $myversion = '11.3.01.a-pm18';
-$bpurl = 'https://beatpress.surcebeats.com';
+$bpurl = 'https://github.com/BansheeDevelopment/BeatPress';
 $option_checker = get_option('beatpress_settings');
 
 //DEV MODE
