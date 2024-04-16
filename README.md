@@ -1,6 +1,6 @@
 # BeatPress
 
-![BeatPress Logo](https://example.com/path/to/logo.png)
+![BeatPress Logo](https://github.com/BansheeDevelopment/BeatPress/blob/master/beatpress_logo.png)
 
 BeatPress is a sophisticated WordPress plugin designed for music producers and beat sellers. It seamlessly integrates with your WordPress site, allowing you to manage and sell your beats in a professional manner. Whether you are using it with the Easy Digital Downloads plugin to automate the delivery of beats post-purchase, or without it for manual distribution, BeatPress provides a flexible solution tailored to your needs.
 
