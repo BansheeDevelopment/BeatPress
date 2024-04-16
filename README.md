@@ -14,6 +14,15 @@ BeatPress is a sophisticated WordPress plugin designed for music producers and b
   - **Easy Digital Downloads**: Integration for those who prefer the robust EDD ecosystem.
   - **External Service / Redirect Mode**: Redirect customers to external marketplaces like BeatStars or Airbit using your own propage store links, best for SEO.
 
+### Dashboard
+![Demo of BeatPress Dashboard](https://github.com/BansheeDevelopment/BeatPress/blob/main/demo_dashboard.jpg)
+
+### General View
+![Demo of BeatPress General View](https://github.com/BansheeDevelopment/BeatPress/blob/main/demo_general.jpg)
+
+### Selling Options
+![Demo of BeatPress Selling Options](https://github.com/BansheeDevelopment/BeatPress/blob/main/demo_selling.jpg)
+
 ## Demo
 
 Check out BeatPress in action [here](https://web.surcebeats.com)!
