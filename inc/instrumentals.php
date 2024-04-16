@@ -680,7 +680,7 @@ class Rational_Meta_Box {
 		echo '</div>';	
 
 		echo '<table class="form-table"><tbody>' . $output . '</tbody></table>';
-		echo '<p style="font-size: 12px;"><img style="display:inline;" height="32px" width="32px" src="/wp-content/plugins/beatpress/imgs/system/logo.png"><br><i class="far fa-copyright"></i> BeatPress ' . $myversion . '. ' . __('Proudly brought to you by', 'beatpress') . ' <a target="_blank" href="https://www.surcebeats.com">Surce</a></p>';
+		echo '<p style="font-size: 12px;"><img style="display:inline;" height="32px" width="32px" src="/wp-content/plugins/beatpress/imgs/system/logo.png"><br><i class="far fa-copyright"></i> BeatPress ' . $myversion . '. ' . __('Proudly brought to you by', 'beatpress') . ' <a target="_blank" href="https://github.com/BansheeDevelopment/BeatPress">Banshee</a></p>';
 
 	}
 

@@ -311,7 +311,7 @@ add_shortcode('ad1', 'horizontal');
 // BEATPRESS VERSION
 function version_lo() {
 	GLOBAL $myversion;
-	return '<strong>' . __('BeatPress Plugin for WordPress', 'beatpress' ) . '</strong><br>Version: ' . $myversion . '<br>' . __('Developed by ', 'beatpress') . 'Surce';
+	return '<strong>' . __('BeatPress Plugin for WordPress', 'beatpress' ) . '</strong><br>Version: ' . $myversion . '<br>' . __('Developed by ', 'beatpress') . 'Banshee';
 }
 add_shortcode('version', 'version_lo');
 
@@ -535,7 +535,7 @@ function wpb_after_post_content($content){
 	
 	//Parallax Non Intrusive Advertising
 	if ( ! $option_checker['supportads'] == 1 && get_post_type() == 'instrumentals') {
-		$content .= '<br><a target="_blank" href="http://beatpress.surcebeats.com?' . $_SERVER['SERVER_NAME'] . '"><div class="ad-parallax-wrapper"><div class="ad-parallax-container">';
+		$content .= '<br><a target="_blank" href="https://github.com/BansheeDevelopment/BeatPress?' . $_SERVER['SERVER_NAME'] . '"><div class="ad-parallax-wrapper"><div class="ad-parallax-container">';
 		$content .= '<img title="' . __('Powered by BeatPress', 'beatpress') . ' ' . $myversion . '" alt="' . __('Powered by BeatPress', 'beatpress') . ' ' . $myversion . '" height="32px" width="32px" src="/wp-content/plugins/beatpress/imgs/system/logo.png">';
 		$content .= '</div></div></a>';		
 	}

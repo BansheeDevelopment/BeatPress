@@ -200,7 +200,7 @@ if ($beatpress_direct == 'true') {
 	//echo 'Nothing to buy';
 }
 
-//Example of URL: https://www.surcebeats.com?beatpress_direct=true&beat=Bullseye&license=Untagged%20WAV%20Lease&purchase=6810915.7
+//Example of URL: https://github.com/BansheeDevelopment/BeatPress?beatpress_direct=true&beat=Bullseye&license=Untagged%20WAV%20Lease&purchase=6810915.7
 }
 
 add_action('init','beatpress_direct');

@@ -24,7 +24,7 @@ function example_admin_notice() {
 	if ( ! get_user_meta($user_id, 'beatpress_forum_notice_send') ) {
 		
         echo '<div class="updated is-dismissible"><p>'; 
-        printf(__('Thank you for choosing BeatPress for your bussiness.  Have you checked out our <a target="_blank" href="https://beatpress.surcebeats.com/forum">Forums?</a><span style="float: right;"><a href="%1$s">✖</a></span>'), '?beatpress_forum_notice1=0');
+        printf(__('Thank you for choosing BeatPress for your bussiness. Have you checked out our <a target="_blank" href="https://www.banshee.pro">Website?</a><span style="float: right;"><a href="%1$s">✖</a></span>'), '?beatpress_forum_notice1=0');
         echo "</p></div>";
 
 	}
@@ -292,7 +292,7 @@ $b_draft = wp_count_posts( 'instrumentals' )->draft;
                         <label>
 							<i class="fas fa-unlock-alt"></i> <?php _e('Perpetual', 'beatpress'); ?>
 							
-							<?php bp_help('' . __('This is the type of BeatPress license you have installed in this website.', 'beatpress') . '', '' . __('You can purchase or extend your license to continue getting updates at', 'beatpress') . ' <a class="dashnocolor" target="_blank" href="http://beatpress.surcebeats.com?' . $_SERVER['SERVER_NAME'] . '">http://beatpress.surcebeats.com</a>', '<i class="fas fa-key"></i> ' . __('License', 'beatpress') . '') ?>
+							<?php bp_help('' . __('This is the type of BeatPress license you have installed in this website.', 'beatpress') . '', '' . __('You can purchase or extend your license to continue getting updates at', 'beatpress') . ' <a class="dashnocolor" target="_blank" href="https://github.com/BansheeDevelopment/BeatPress?' . $_SERVER['SERVER_NAME'] . '">https://github.com/BansheeDevelopment/BeatPress</a>', '<i class="fas fa-key"></i> ' . __('License', 'beatpress') . '') ?>
 							
 							<br>
 							<span style="font-size: xx-small;" class="description"><i class="fa fa-info-circle"></i> <?php _e('Your BeatPress license', 'beatpress'); ?>.</span>

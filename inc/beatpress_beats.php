@@ -141,8 +141,8 @@ if ($yt == ''){
 	
 
 	/*
-	$output .= '<a style="display: inline-block;" href="https://www.surcebeats.com/category/beats' . $category1link . '"><i class="fab fa-slack-hash"></i>' . $category1 . '</a>&nbsp;';
-	$output .= '<a style="display: inline-block;" href="https://www.surcebeats.com/category/beats' . $category2link . '"><i class="fab fa-slack-hash"></i>' . $category2 . '</a>&nbsp;';
+	$output .= '<a style="display: inline-block;" href="https://github.com/BansheeDevelopment/BeatPress/category/beats' . $category1link . '"><i class="fab fa-slack-hash"></i>' . $category1 . '</a>&nbsp;';
+	$output .= '<a style="display: inline-block;" href="https://github.com/BansheeDevelopment/BeatPress/category/beats' . $category2link . '"><i class="fab fa-slack-hash"></i>' . $category2 . '</a>&nbsp;';
 	*/
 
 	/*
@@ -158,7 +158,7 @@ if ($yt == ''){
 	
 	count_beat_views();
 	
-	$output .= '<!-- This beat page has been dynamically generated with BeatPress Version ' . $myversion . ' by Surce -->';
+	$output .= '<!-- This beat page has been dynamically generated with BeatPress Version ' . $myversion . ' by Banshee -->';
 	$output .= '<!-- Get BeatPress for free at ' . $bpurl . ' -->';
 	//$output .= $encrypted . ' ' . $file['url'];
 	
@@ -978,7 +978,7 @@ if ($yt == ''){
 	
 	/*Genre displayer
 	$output .= '<div class="box box-2 clearfix"><div class="box-content" style="">';
-	$output .= '<span style="font-size: small;"><i class="fa fa-arrow-right"></i> Click the following links to listen and download more <a href="https://www.surcebeats.com/category/beats' . $category1link . '" title="' . $category1 . ' Beats & Instrumentals">' . $category1 . '</a> and <a href="https://www.surcebeats.com/category/beats' . $category2link . '" title="' . $category2 . ' Beats & Instrumentals">' . $category2 . '</a> beats and instrumentals.</span>';
+	$output .= '<span style="font-size: small;"><i class="fa fa-arrow-right"></i> Click the following links to listen and download more <a href="https://github.com/BansheeDevelopment/BeatPress/category/beats' . $category1link . '" title="' . $category1 . ' Beats & Instrumentals">' . $category1 . '</a> and <a href="https://github.com/BansheeDevelopment/BeatPress/category/beats' . $category2link . '" title="' . $category2 . ' Beats & Instrumentals">' . $category2 . '</a> beats and instrumentals.</span>';
 	$output .= '</div></div>';*/
 
 	/*Subbcategories Show

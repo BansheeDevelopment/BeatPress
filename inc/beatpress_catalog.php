@@ -24,7 +24,7 @@ function beatpress_catalog($content) {
 	
 	//CHECK IF CATALOG PAGE IS SELECTED PAGE
 	if ( in_the_loop() && get_the_ID() == $option_checker['catalogurl']) {
-		echo '<!-- This beat store page has been dynamically generated with BeatPress Version ' . $myversion . ' by Surce -->';
+		echo '<!-- This beat store page has been dynamically generated with BeatPress Version ' . $myversion . ' by Banshee -->';
 		echo '<!-- Get BeatPress for free at ' . $bpurl . ' -->';
 
 		//$total_beats = wp_count_posts( 'instrumentals' )->publish;
@@ -172,7 +172,7 @@ function beatpress_catalog($content) {
 		//Parallax Non Intrusive Advertising
 		if ($option_checker['supportads'] == 1) {
 		} else {
-			echo '<br><a target="_blank" href="http://beatpress.surcebeats.com?' . $_SERVER['SERVER_NAME'] . '"><div class="ad-parallax-wrapper"><div class="ad-parallax-container">';
+			echo '<br><a target="_blank" href="https://github.com/BansheeDevelopment/BeatPress?' . $_SERVER['SERVER_NAME'] . '"><div class="ad-parallax-wrapper"><div class="ad-parallax-container">';
 			echo '<img title="' . __('Powered by BeatPress', 'beatpress') . ' ' . $myversion . '" alt="' . __('Powered by BeatPress', 'beatpress') . ' ' . $myversion . '" height="32px" width="32px" src="/wp-content/plugins/beatpress/imgs/system/logo.png">';
 			echo '</div></div></a><br>';		
 		}
