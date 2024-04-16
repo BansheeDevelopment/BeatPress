@@ -15,7 +15,7 @@ BeatPress is a sophisticated WordPress plugin designed for music producers and b
   - **External Service / Redirect Mode**: Redirect customers to external marketplaces like BeatStars or Airbit using your own propage store links, best for SEO.
 
 ## WordPress Plugin Installation
-Create a new folder named ''beatpress'' without quotes on your wp-content/plugins, like this /wp-content/plugins/beatpress and activate it, that's all!
+Create a new folder named ''beatpress'' without quotes on your wp-content/plugins, like this /wp-content/plugins/beatpress, then go to your Plugins tab on your WordPress instance and activate it, that's all!
 
 ### Dashboard
 ![Demo of BeatPress Dashboard](https://github.com/BansheeDevelopment/BeatPress/blob/main/demo_dashboard.jpg)
