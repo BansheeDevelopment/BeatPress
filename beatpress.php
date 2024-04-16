@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: BeatPress
-Plugin URI: https://beatpress.surcebeats.com/
+Plugin URI: https://https://github.com/BansheeDevelopment/BeatPress
 Description: BeatPress for WordPress, your complete solution for selling beats online
 Version: 11.2.46.0101-pm12
-Author: Surce
-Author URI: https://www.surcebeats.com/
+Author: Banshee Development
+Author URI: https://www.banshee.pro
 */
 
 // Security Layer

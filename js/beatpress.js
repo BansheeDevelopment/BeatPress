@@ -1,7 +1,7 @@
 /**
  * BeatPress
- * Copyright (C) Surce Beats - Claudio González Medina (http://iamsurce.com)
- * Auxiliar code from NARENDRA PADALA (http://scripthere.com)
+ * Copyright (C) Banshee Development (https://www.banshee.pro)
+ * Auxiliar code from NARENDRA PADALA (https://scripthere.com)
  */
 
 jQuery.noConflict($);

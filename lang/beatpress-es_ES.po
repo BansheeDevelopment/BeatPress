@@ -1,7 +1,7 @@
 # TRADUCCIÓN AL CASTELLANO PARA BEATPRESS.
 # Copyright (C) 2019
 # This file is distributed under the same license as the BEATPRESS package.
-# CLAUDIO GONZÁLEZ <INFO@SURCEBEATS.COM>, 2019.
+# BANSHEE DEVELOPMENT <HELLO@BANSHEE.PRO>, 2019.
 #
 msgid ""
 msgstr ""
@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-24 22:48+0200\n"
 "PO-Revision-Date: 2019-09-25 02:06+0200\n"
-"Last-Translator: Claudio González Medina (surcebeats.com) <info@surcebeats.com>\n"
+"Last-Translator: Banshee (surcebeats.com) <info@surcebeats.com>\n"
 "Language-Team: Español\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
